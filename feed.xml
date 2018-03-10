@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://hiseka.github.io/"/>
-  <updated>2018-03-10T06:00:10.883Z</updated>
+  <updated>2018-03-10T11:48:10.401Z</updated>
   <id>http://hiseka.github.io/</id>
   
   <author>
@@ -15,6 +15,543 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>해외 결제 수수료와 아끼는 법 그리고 추천 체크카드</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%ED%95%B4%EC%99%B8%20%EA%B2%B0%EC%A0%9C%20%EC%88%98%EC%88%98%EB%A3%8C%EC%99%80%20%EC%95%84%EB%81%BC%EB%8A%94%20%EB%B2%95%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%B6%94%EC%B2%9C%20%EC%B2%B4%ED%81%AC%EC%B9%B4%EB%93%9C/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 해외 결제 수수료와 아끼는 법 그리고 추천 체크카드/</id>
+    <published>2018-03-10T11:45:00.000Z</published>
+    <updated>2018-03-10T11:48:10.401Z</updated>
+    
+    <content type="html"><![CDATA[<p>해외 결제 수수료는 여러 가지로 나뉠 수 있다. 직접 가서 돈을 찾아서 구매할 경우 ATM 수수료가 발생하는 등 다양한 수수료가 존재하지만, 일반적인 해외 결제 수수료라고 한다면 국내에서 해외 온라인 쇼핑몰에 카드로 결제하는 경우 발생하는 수수료를 말한다.</p><p>수수료에 대한 설명은 접어 두고 수수료가 어떻게 부과되는지부터 살펴본다면 다음과 같다.</p><blockquote><p>결제 → 국제 카드사에서 결제 금액을 USD로 환산(국제 카드사 환전율) → 국제 카드망 이용 수수료 가산 →<br>국제 카드사에서 국내 카드사로 해당 금액 청구 → 국내 카드사에서 청구된 금액을 원화로 환산(전신환 매도율) →<br>해외 결제 수수료 가산 → 최종 금액 소비자에게 청구(1원 미만 버림)</p></blockquote><p>따라서 간단히 생각하자면 국내 카드사의 해외 결제 수수료 + 전신환 매도율을 이용한 환전 + 국제 카드망 이용 수수료 + (USD 등 국제 카드사의 기준 통화가 아닌 경우 국제 카드사 환전율) 이런 식으로 3가지 또는 4가지의 수수료가 기본적으로 붙어서 청구된다.</p><p>만약 자국 통화 결제(DCC)를 이용하게 되면 사태는 더 심각해진다. 요컨대, 해외 사이트가 분명한데 원화로 결제하거나 해외 여행 가서 원화로 오프라인 가게에서 결제하는 경우가 이 경우에 속한다.</p><blockquote><p>결제 → 현지 통화 금액을 고객에게 가장 분리한 환율로 원화로 환전 →<br>환전된 금액에 대한 POS 업체와 결제망을 운용 중인 은행이나 카드사에서 자국 통화 결제 수수료 3 ~ 10% 가산 →<br>해당 금액을 국제 카드사로 청구 → 국제 카드사에서 결제 금액을 USD로 환산(국제 카드사 환전율) →<br>국제 카드망 이용 수수료 가산 → 국제 카드사에서 국내 카드사로 해당 금액 청구 →<br>국내 카드사에서 청구된 금액을 원화로 환산(전신환 매도율) → 해외 결제 수수료 가산 →<br>최종 금액 소비자에게 청구(1원 미만 버림)</p></blockquote><p>위와 같이 원화가 달러로, 달러가 원화로 환전되면서 중간에 자국 통화 결제에 대한 추가 수수료가 더 붙어서 청구되는 기가 막힌 상황에 부닥칠 수 있다.</p><p>그렇다면 이런 해외 결제 수수료를 어떻게 하면 아낄 수 있을까? 일단 자국 통화 결제는 반드시 피해 주는 것이 좋다. 자국 통화 결제가 되는 것으로 의심되는 사이트나 오프라인 매장에서는 비자나 마스터, JCB 카드를 제외하고 다른 브랜드의 카드를 사용하는 것이 좋으며 Amex도 특별한 사이트에서는 자국 통화 결제가 되는 경우가 있으니 은련이나 비씨 글로벌로 되도록 결제하면 좋다. 만약 자국 통화 결제와 해당국 통화 결제를 선택할 수 있다면 해당국 통화 결제로 선택하는 것이 좋다. 오프라인 가게를 이용한다면 자국 통화 결제를 유도할 경우 해당국 화폐나 USD로 결제하는 것도 좋은 방법이다.</p><p>자국 통화 결제 외에 들어가는 앞서 말했던 4가지 수수료 중 국제 카드사 환전율에 따른 환전으로 나가는 수수료는 USD로 결제가 가능한 사이트라면 USD로 결제해서 막을 수 있는 부분이다. 하지만 다른 부분은 전부 내야만 하는 수수료이다. 물론 해외 브랜드마다 수수료율이 다르기 때문에 정보를 알아둔다면 싼 국제 카드사 브랜드와 싼 국내 카드사의 상품을 선택해서 카드를 고른다면 그만큼 아낄 수 있다. 그런 의미에서 다음과 같이 정리해보았다.</p><p><strong style="font-size:1.5em;">국제 카드사 브랜드와 수수료</strong></p><table><thead><tr><th>국제 브랜드</th><th>수수료</th></tr></thead><tbody><tr><td>Visa</td><td>1.1%<sup><a href="#fn1" id="ref1" title="수수료를 올린 것은 부당하다며 국내 카드사가 비자 카드사를 공정 거래 위원회에 제소한 상태로 인상된 0.1%는 카드사에서 부담하며 사용자에겐 1%를 청구한다.">1</a></sup></td></tr><tr><td>Master</td><td>1%</td></tr><tr><td>Amex</td><td>1.4%</td></tr><tr><td>JCB</td><td>0%</td></tr><tr><td>UPI</td><td>0.8%</td></tr><tr><td>Diners Club</td><td>1%</td></tr><tr><td>Discover</td><td>0%</td></tr><tr><td>BC Global<sup><a href="#fn2" id="ref2" title="제휴 브랜드 : JCB, UPI, Diners Club">2</a></sup></td><td>0%</td></tr><tr><td>W<sup><a href="#fn3" id="ref3" title="제휴 브랜드 : JCB">3</a></sup></td><td>1%</td></tr><tr><td>L.GLOBAL<sup><a href="#fn4" id="ref4" title="제휴 브랜드 : UPI">4</a></sup></td><td>1%</td></tr><tr><td>URS<sup><a href="#fn5" id="ref5" title="제휴 브랜드 : JCB">5</a></sup></td><td>1%</td></tr><tr><td>S&amp;<sup><a href="#fn6" id="ref6" title="제휴 브랜드 : Amex">6</a></sup></td><td>1.4%</td></tr><tr><td>K-World<sup><a href="#fn7" id="ref7" title="제휴 브랜드 : JCB, UPI">7</a></sup></td><td>0.5%<sup><a href="#fn8" id="ref8" title="2019년까지 수수료 50% 할인이 적용되어 현제는 0.5%, 이후는 원래 수수료인 1%가 된다.">8</a></sup></td></tr><tr><td>One Way<sup><a href="#fn9" id="ref9" title="제휴 브랜드 : JCB">9</a></sup></td><td>1%</td></tr></tbody></table><strong style="font-size:1.5em;">국내 카드사 해외 결제 수수료</strong><br><br><table><thead><tr><th>카드사(은행)</th><th>신용카드 수수료</th><th>체크카드 수수료</th><th>비고</th></tr></thead><tbody><tr><td>KB국민</td><td>0.25%</td><td>0.25%, 마에스트로는 $0.5</td><td></td></tr><tr><td>BNK경남</td><td>0.25%</td><td>0.25%</td><td></td></tr><tr><td>KJB광주</td><td>0.20%</td><td>0.20%</td><td></td></tr><tr><td>IBK기업</td><td>0.18%</td><td>0.18%, 은련은 $0.5</td><td></td></tr><tr><td>NH농협</td><td>0.25%</td><td>$0.5</td><td></td></tr><tr><td>DGB대구</td><td>0.25%</td><td>0.25%, 은련은 $0.5</td><td></td></tr><tr><td>롯데</td><td>0.20%</td><td>해외결제 불가</td><td></td></tr><tr><td>BNK부산</td><td>0.25%</td><td>0.25%</td><td></td></tr><tr><td>삼성</td><td>0.20%</td><td>0.20%</td><td>체크카드는 오프라인 전용</td></tr><tr><td>신한</td><td>0.18%</td><td>0.20%, 인터링크와 마에스트로는 1%</td><td></td></tr><tr><td>한국씨티</td><td>0.25%</td><td>0.25%, 씨티BC 비자는 0.30%</td><td></td></tr><tr><td>Sh수협</td><td>0.30%</td><td>0.30%</td><td></td></tr><tr><td>우리</td><td>0.30%</td><td>$0.5</td><td></td></tr><tr><td>우체국</td><td>상품없음</td><td>0.30%</td><td></td></tr><tr><td>KJB전북</td><td>0.20%</td><td>0.20%</td><td></td></tr><tr><td>제주</td><td>0.30%</td><td>국내전용</td><td></td></tr><tr><td>카카오</td><td>상품없음</td><td>0.25%</td><td></td></tr><tr><td>케이뱅크</td><td>상품없음</td><td>0.25%</td><td></td></tr><tr><td>KEB하나</td><td>0.20%</td><td>$0.5</td><td></td></tr><tr><td>현대</td><td>0.18%</td><td>국내전용</td><td></td></tr><tr><td>SC제일</td><td>0.35%</td><td>$0.5</td><td>체크카드는 오프라인 전용</td></tr></tbody></table><p>이 밖에도 KDB산업은행, 신협, SJ산림조합, MG새마을금고, 상호저축은행, 증권사들도 카드를 발행하지만, 해외 결제 할 수 있는 상품이 없어서 표에는 나타나지 않는다.</p><p>위와 같이 수수료를 비교해 보고 싼 국제 카드 브랜드와 국내 카드사 또는 은행을 고르는 방법이 일반적이지만 해외 결제에 특화된 있는 상품도 존재하기 때문에 위와 같은 수수료를 계산하지 않고 특화된 상품 몇 개를 가지고 있는 것이 더 수수료 면에서 이득을 볼 수 있는데 그래서 이 부분도 정리해 보았다. 단, 신용카드의 경우 상품이 매우 다양해서 따로 정리하지는 않고 체크카드만 정리해 보았다(참고로 신용카드의 경우 알고 있는 선에서 힌트를 주자면 국민 파인테크, 우리 위비온, 신한 글래식 y, 신한 스마트 글로벌, 신한 하이포인트, 신한 하이포인트 나노 f, 단종된 상품 중에서는 NH 시럽 카드등이 있다).</p><p><strong style="font-size:1.5em;">해외 결제 특화 체크카드 정리</strong></p><p>해외 브랜드, 실적 유무, 연회비 유무, 사용하는 은행 - 상품명(혜택)</p><ul><li><p>비자 무실적 무연회비 모든 은행 사용 가능 - 네이버 페이 체크카드(1.2% 수수료지만 1% 네이버 페이 포인트 적립)</p></li><li><p>비자 무실적 무연회비 한국씨티은행 - 캐시백 체크카드(1.25% 수수료지만 1% 캐시백, 네이버 페이를 굳이 사용하지 않는 사람이면 추천한다. 단, 해외 현금 카드 기능이 탑재되어 있는 경우 이벤트가 아니면 발급 수수료를 내야 한다)</p></li><li><p>마스터 무실적 무연회비 신한은행 - 스마트 글로벌 체크카드(1.2% 수수료를 내야 하지만 1.5% 캐시백)</p></li><li><p>마스터 무실적 유연회비 농협 - 글로벌 언리미티드 체크카드(1% + 건당 0.5달러의 수수료를 내지만 $10 이상 결제 시 2% 캐쉬백 된다. 연회비는 3000원으로 고가의 제품이나 한 번에 많은 량을 구매할 때 사용하면 좋은 카드)</p></li><li><p>비씨 글로벌 무실적 무연회비 우리은행 - 현대 백화점 체크카드, 뉴 현대 백화점 체크카드(비씨 글로벌 브랜드로 아마존 디스커버 카드 무료 배송 이벤트에 주로 활용된다. 건당 0.5달러 수수료 부과)</p></li><li><p>은련 무실적 무연회비 신한카드 - 조흥 BC 계열이 아닌 신한카드 자체 은련 브랜드 체크카드(국내에서 유일무이하게 은련으로 해외 신판이 되는 체크카드들이다. 총 1%의 수수료(은련 0.8, 신한 0.2)를 내고 사용해야 한다. 주거래 체크카드의 경우 전월 실적 30만원을 채우면 은련 브랜드 수수료는 면제된다. 유일하게 샤오미 중국 공식 홈페이지 등에서 먹히는 은련 체크카드이다.)</p></li><li><p>아메리칸 엑스프레스 무실적 무연회비 하나카드 - 글로벌 페이 체크카드(외화 전용통장에 돈을 넣어 놓고 사용 가능해서 환차 이익을 얻을 수 있다. USD 한정으로 수수료는 없으며 타 통화의 경우 1.4% 수수료가 붙는다.)</p></li><li><p>마스터 무실적 무연회비 신한카드 - 체인지업 체크카드(글로벌 페이 체크카드와 같지만 모든 통화에 대해 수수료가 없다. 역시 환차 이익을 볼 수 있는 체크카드)</p></li></ul><p>마지막으로 위의 카드 상품 중 특이한 카드들이 있어 언급하자면 마지막 2개의 상품, 하나 글로벌 페이 체크카드와 신한 체인지업 체크카드는 외화 통장을 개설 후 해당 통장에 연결해서 사용하는 상품이다.</p><p>따라서 환차 이익 또는 환헷지가 가능한 상품들인데 요컨대, USD 환율이 낮아졌을 때 10만원 어치건 1000만원 어치건 달러를 구매해서 해당 통장에 저축해서 나중에 쓸 때 사용할 수 있다(그 나중에 환율이 올랐을 때인지 아니면 환율이 더 내렸을 때인지는 알 수 없지만 올랐을 때의 경우 이전의 환율이 쌌을 때 구매했기 때문에 그만큼 이득을 취할 수 있다. 이것을 환차 이익 즉 환율 차이에 대한 이익이라고 한다).</p><p>물론 통장에 외화를 넣을 때 직접 넣는 경우(하나 글로벌 페이 체크카드는 직접 외화 입금이 불가능하다)가 아니라면 송금을 통해서 환전해서 넣어야 하는데 이때 전신환 매도율에 따른 환전이 된다. 그러니까 카드를 사용할 때와 이 부분에 대한 수수료는 비슷하게 나간다는 것이다. 또한, USD 이외의 다른 화폐로 결제 시에도 해외 카드사에서 USD로 환전된 금액을 청구해서 빼가기 때문에 이 부분에 대한 수수료도 그대로 적용된다.</p><p>따라서 위 마지막 2개의 상품은 환차 이익을 위한 상품이지 수수료를 아끼기 위한 상품은 아니다. 특히 신한 체인지업 체크카드의 경우 신한 스마트 글로벌 체크카드가 당일 대비 결제 시 수수료 부분에서 이득을 받을 수 있다.</p><p>이렇게 해외 결제 수수료와 아끼는 법 그리고 추천 체크카드를 알아보았다. 시간이 지나서 다른 부분이나 개념이 조금 틀렸다면 댓글이나 이메일로 수정 문의를 해주길 바란다.</p><p>PS. 신한 체인지업 체크카드를 이용 시 수수료를 더 아끼고 싶다면, 자신이 서울에 살거나 자신이 사는 지역에 사설 환전소가 있다는 가정하에 해당 은행의 전신환 매도율보다 일반 환전이 더 이득이라면 환전해서 직접 외화를 입금하는 것이 더 수수료를 아낄 수도 있다.</p><hr><p><sup id="fn1"><a href="#ref1" title="주석 1번으로 돌아가기">[1]</a> 수수료를 올린 것은 부당하다며 국내 카드사가 비자 카드사를 공정 거래 위원회에 제소한 상태로 인상된 0.1%는 카드사에서 부담하며 사용자에겐 1%를 청구한다.</sup><br><sup id="fn2"><a href="#ref2" title="주석 2번으로 돌아가기">[2]</a> 제휴 브랜드 : JCB, UPI, Diners Club</sup><br><sup id="fn3"><a href="#ref3" title="주석 3번으로 돌아가기">[3]</a> 제휴 브랜드 : JCB</sup><br><sup id="fn4"><a href="#ref4" title="주석 4번으로 돌아가기">[4]</a> 제휴 브랜드 : UPI</sup><br><sup id="fn5"><a href="#ref5" title="주석 5번으로 돌아가기">[5]</a> 제휴 브랜드 : JCB</sup><br><sup id="fn6"><a href="#ref6" title="주석 6번으로 돌아가기">[6]</a> 제휴 브랜드 : Amex</sup><br><sup id="fn7"><a href="#ref7" title="주석 7번으로 돌아가기">[7]</a> 제휴 브랜드 : JCB, UPI</sup><br><sup id="fn8"><a href="#ref8" title="주석 8번으로 돌아가기">[8]</a> 2019년까지 수수료 50% 할인이 적용되어 현재는 0.5%, 이후는 원래 수수료인 1%가 된다.</sup><br><sup id="fn9"><a href="#ref9" title="주석 9번으로 돌아가기">[9]</a> 제휴 브랜드 : JCB</sup></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;해외 결제 수수료는 여러 가지로 나뉠 수 있다. 직접 가서 돈을 찾아서 구매할 경우 ATM 수수료가 발생하는 등 다양한 수수료가 존재하지만, 일반적인 해외 결제 수수료라고 한다면 국내에서 해외 온라인 쇼핑몰에 카드로 결제하는 경우 발생하는 수수료
+      
+    
+    </summary>
+    
+      <category term="Living" scheme="http://hiseka.github.io/categories/Living/"/>
+    
+      <category term="Money" scheme="http://hiseka.github.io/categories/Living/Money/"/>
+    
+    
+      <category term="수수료" scheme="http://hiseka.github.io/tags/%EC%88%98%EC%88%98%EB%A3%8C/"/>
+    
+      <category term="Fees" scheme="http://hiseka.github.io/tags/Fees/"/>
+    
+      <category term="해외 결제" scheme="http://hiseka.github.io/tags/%ED%95%B4%EC%99%B8-%EA%B2%B0%EC%A0%9C/"/>
+    
+      <category term="Overseas Payment" scheme="http://hiseka.github.io/tags/Overseas-Payment/"/>
+    
+      <category term="신용카드" scheme="http://hiseka.github.io/tags/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C/"/>
+    
+      <category term="Credit Card" scheme="http://hiseka.github.io/tags/Credit-Card/"/>
+    
+      <category term="체크카드" scheme="http://hiseka.github.io/tags/%EC%B2%B4%ED%81%AC%EC%B9%B4%EB%93%9C/"/>
+    
+      <category term="Check Card" scheme="http://hiseka.github.io/tags/Check-Card/"/>
+    
+      <category term="저축" scheme="http://hiseka.github.io/tags/%EC%A0%80%EC%B6%95/"/>
+    
+      <category term="Saving" scheme="http://hiseka.github.io/tags/Saving/"/>
+    
+      <category term="돈" scheme="http://hiseka.github.io/tags/%EB%8F%88/"/>
+    
+      <category term="Money" scheme="http://hiseka.github.io/tags/Money/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>죽어라! 죽여라!</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%A3%BD%EC%96%B4%EB%9D%BC%20%EC%A3%BD%EC%97%AC%EB%9D%BC/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 죽어라 죽여라/</id>
+    <published>2018-03-10T11:40:06.000Z</published>
+    <updated>2018-03-10T11:40:12.052Z</updated>
+    
+    <content type="html"><![CDATA[<p>죽어라!<br>하늘아!<br>네가 나에게 허락한 것이 무엇이더냐!<br>고작 저주와 실망 그리고 한(恨)이 아니더냐!<br>그래 놓고 살길을 바라느냐?</p><p>죽어라!<br>바다야!<br>네가 나에게 허락한 것이 무엇이더냐!<br>고작 슬픔과 실패 그리고 악(악에 받치다의 악)이 아니더냐!<br>그래 놓고 살길을 바라느냐?</p><p>죽여라!<br>세상아!<br>네가 나에게 허락한 것이 무엇이더냐!<br>아무것도 없지 않으냐!<br>그래 놓고 살길 바라느냐?</p><p>白星 김선홍</p><p><strong>죽어라! 죽여라!</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;죽어라!&lt;br&gt;하늘아!&lt;br&gt;네가 나에게 허락한 것이 무엇이더냐!&lt;br&gt;고작 저주와 실망 그리고 한(恨)이 아니더냐!&lt;br&gt;그래 놓고 살길을 바라느냐?&lt;/p&gt;
+&lt;p&gt;죽어라!&lt;br&gt;바다야!&lt;br&gt;네가 나에게 허락한 것이 무엇이더냐!&lt;br&gt;고작 슬픔
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>희망이란 노래를…….</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%ED%9D%AC%EB%A7%9D%EC%9D%B4%EB%9E%80%20%EB%85%B8%EB%9E%98%EB%A5%BC/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 희망이란 노래를/</id>
+    <published>2018-03-10T11:39:26.000Z</published>
+    <updated>2018-03-10T11:39:30.980Z</updated>
+    
+    <content type="html"><![CDATA[<p>목놓아 부르고 싶다.<br>아름다운 선율에 입을 벌려,<br>안에 있는 응어리와 한(恨), 그리고 슬픔을<br>비겁자이자 부끄러움 많은 나를 뒤로하고<br>부르짖고 싶다.</p><p>목이 쉴 정도로 부르고 싶다.<br>아름다운 선율에 입을 벌려,<br>안에 있는 후회와 아픔, 그리고 망상을<br>시간만 죽이는 아무것도 하지 않는 나를 뒤로하고<br>부르짖고 싶다.</p><p>희망이란 노래를…….</p><p>白星 김선홍</p><p><strong>희망이란 노래를…….</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;목놓아 부르고 싶다.&lt;br&gt;아름다운 선율에 입을 벌려,&lt;br&gt;안에 있는 응어리와 한(恨), 그리고 슬픔을&lt;br&gt;비겁자이자 부끄러움 많은 나를 뒤로하고&lt;br&gt;부르짖고 싶다.&lt;/p&gt;
+&lt;p&gt;목이 쉴 정도로 부르고 싶다.&lt;br&gt;아름다운 선율에 입을 벌려
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>추모를 뒤로 미루고…….</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%B6%94%EB%AA%A8%EB%A5%BC%20%EB%92%A4%EB%A1%9C%20%EB%AF%B8%EB%A3%A8%EA%B3%A0/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 추모를 뒤로 미루고/</id>
+    <published>2018-03-10T11:37:53.000Z</published>
+    <updated>2018-03-10T11:38:11.612Z</updated>
+    
+    <content type="html"><![CDATA[<p>그녀가 죽었다. 하늘을 올려다보고 서글픈 추모사 한 줄 낭독할 겨를 없이 우리는 다른 곳으로 향해야 했다. 묻어 주고 싶었지만, 하늘은 그것을 허락하지 않았다. 모든 것이 재앙과 같은 시간 때문이리라. 뛴다. 그녀의 희생이 헛되지 않았으면 하는 마음에 혀 밑까지 시큼한 내음이 올라와도 꾹 참고 뛴다. 이 끝에 찬란한 승리와 그 후 평화의 날에 그녀의 죽음을 추모할 수 있도록…….</p><p>白星 김선홍</p><p><strong>추모를 뒤로 미루고…….</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;그녀가 죽었다. 하늘을 올려다보고 서글픈 추모사 한 줄 낭독할 겨를 없이 우리는 다른 곳으로 향해야 했다. 묻어 주고 싶었지만, 하늘은 그것을 허락하지 않았다. 모든 것이 재앙과 같은 시간 때문이리라. 뛴다. 그녀의 희생이 헛되지 않았으면 하는 
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>가는 날</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EA%B0%80%EB%8A%94%20%EB%82%A0/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 가는 날/</id>
+    <published>2018-03-10T11:37:13.000Z</published>
+    <updated>2018-03-10T11:37:17.835Z</updated>
+    
+    <content type="html"><![CDATA[<p>하얀 벨벳에 입맞춤하듯 부드러운.<br>검지만 따스한 온기를 주는 석탄 같은.<br>그 무엇도 꿰뚫어 볼 수 있는 반짝거림을.<br>모두 가진 그대여 소천하소서.<br>그대를 위해 해줄 수 있는 건 노잣돈 몇 푼.<br>사진 속 그대에게 바치는 곡소리뿐.<br>호상이라는 일상적인 말뿐.<br>소천하소서. 그대를 기억하는 나와 다른 이를 위해.<br>행복하소서. 돌아가는 날 지상의 그 관계 다시 맺어 웃을 수 있도록.<br>소천하소서. 행복하소서. 안식하소서.</p><p>白星 김선홍</p><p><strong>가는 날</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;하얀 벨벳에 입맞춤하듯 부드러운.&lt;br&gt;검지만 따스한 온기를 주는 석탄 같은.&lt;br&gt;그 무엇도 꿰뚫어 볼 수 있는 반짝거림을.&lt;br&gt;모두 가진 그대여 소천하소서.&lt;br&gt;그대를 위해 해줄 수 있는 건 노잣돈 몇 푼.&lt;br&gt;사진 속 그대에게 바치는 
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>꿈 같은 만남</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EA%BF%88%20%EA%B0%99%EC%9D%80%20%EB%A7%8C%EB%82%A8/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 꿈 같은 만남/</id>
+    <published>2018-03-10T11:36:32.000Z</published>
+    <updated>2018-03-10T11:36:35.108Z</updated>
+    
+    <content type="html"><![CDATA[<p>잠을 자는 시간이 아쉬운 적이 있는가?<br>묻는다면 나는 없다고 말하겠소.<br>잠속에서 그댈 만나 이야기 나눌 시간이 아쉬워.<br>깨어나기가 두려웠던 나날이 많았음을<br>그대는 알아줄까? 꿈속에 그대여.  </p><p>白星 김선홍</p><p><strong>꿈 같은 만남</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;잠을 자는 시간이 아쉬운 적이 있는가?&lt;br&gt;묻는다면 나는 없다고 말하겠소.&lt;br&gt;잠속에서 그댈 만나 이야기 나눌 시간이 아쉬워.&lt;br&gt;깨어나기가 두려웠던 나날이 많았음을&lt;br&gt;그대는 알아줄까? 꿈속에 그대여.  &lt;/p&gt;
+&lt;p&gt;白星 김선홍&lt;/p&gt;
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>원망</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%9B%90%EB%A7%9D/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 원망/</id>
+    <published>2018-03-10T11:35:53.000Z</published>
+    <updated>2018-03-10T11:35:56.837Z</updated>
+    
+    <content type="html"><![CDATA[<p>신이 있다면 나에게 이럴 수 있느냐 원망하겠소.<br>심장을 꿰뚫어 죽은 이들처럼<br>이미 내 심장은 꿰뚫어 그대가 가지고 갔음을 알기에<br>나 원 없이 원망하겠소<br>살아있음을. 그 가치를 잃게 만든 거룩한 주체에게<br>나 감히 원망하겠소.  </p><p>白星 김선홍</p><p><strong>원망</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;신이 있다면 나에게 이럴 수 있느냐 원망하겠소.&lt;br&gt;심장을 꿰뚫어 죽은 이들처럼&lt;br&gt;이미 내 심장은 꿰뚫어 그대가 가지고 갔음을 알기에&lt;br&gt;나 원 없이 원망하겠소&lt;br&gt;살아있음을. 그 가치를 잃게 만든 거룩한 주체에게&lt;br&gt;나 감히 원망하겠
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>자신(自身)</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%9E%90%EC%8B%A0/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 자신/</id>
+    <published>2018-03-10T11:35:15.000Z</published>
+    <updated>2018-03-10T11:35:23.836Z</updated>
+    
+    <content type="html"><![CDATA[<p>실오라기 하나 걸치지 않고,<br>옆을 바라본다.<br>투명한 유리창에 비친 그는<br>검은 피막의 날개를 등에 달았는가?<br>하얀 깃털의 날개를 등에 달았는가?<br>머리에 뿔이 달렸는가?<br>머리에 고리가 달렸는가?<br>모든 것이 아니라면 그는 무엇인가?<br>그의 등에는 아무것도 존재하지 않는다.<br>그의 머리에는 어떤 것도 달렸지 않는다.<br>세상에 오롯이 유일한 존재가 있을 뿐,<br>그뿐이다. 백(白)도 흑(黑)도 아닌 그뿐이다.</p><p>白星 김선홍</p><p><strong>자신(自身)</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;실오라기 하나 걸치지 않고,&lt;br&gt;옆을 바라본다.&lt;br&gt;투명한 유리창에 비친 그는&lt;br&gt;검은 피막의 날개를 등에 달았는가?&lt;br&gt;하얀 깃털의 날개를 등에 달았는가?&lt;br&gt;머리에 뿔이 달렸는가?&lt;br&gt;머리에 고리가 달렸는가?&lt;br&gt;모든 것이 아니라
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unemployment</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20Unemployment/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 Unemployment/</id>
+    <published>2018-03-10T11:34:44.000Z</published>
+    <updated>2018-03-10T11:34:48.092Z</updated>
+    
+    <content type="html"><![CDATA[<p>하늘 날아 그곳에서 보는 별빛을 이불 삼아<br>멀리서 들려오는 바닷소리를 자장가 삼아<br>하루만이라도 신경을 세우지 않고 자고 싶다.</p><p>바람에 실려 오는 빵 굽는 냄새를 간식 삼아<br>포근하고 부드러운 구름을 주식 삼아<br>하루만이라도 걱정을 생각지 않고 먹고 싶다.</p><p>白星 김선홍</p><p><strong>Unemployment</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;하늘 날아 그곳에서 보는 별빛을 이불 삼아&lt;br&gt;멀리서 들려오는 바닷소리를 자장가 삼아&lt;br&gt;하루만이라도 신경을 세우지 않고 자고 싶다.&lt;/p&gt;
+&lt;p&gt;바람에 실려 오는 빵 굽는 냄새를 간식 삼아&lt;br&gt;포근하고 부드러운 구름을 주식 삼아&lt;br&gt;하루
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>그와 같이…… 하고 싶소.</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EA%B7%B8%EC%99%80%20%EA%B0%99%EC%9D%B4%20%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%86%8C/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 그와 같이 하고 싶소/</id>
+    <published>2018-03-10T11:34:09.000Z</published>
+    <updated>2018-03-10T11:34:14.612Z</updated>
+    
+    <content type="html"><![CDATA[<p>불빛에 나방이 끌리듯 나도 그와 같이<br>얼룩이 비눗물에 녹아나듯 나도 그와 같이<br>자석의 양극단이 붙으려 하듯 나도 그와 같이<br>꿈을 찾고 싶소, 사랑 하고 싶소, 행복해지고 싶소.</p><p>白星 김선홍</p><p><strong>그와 같이…… 하고 싶소.</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;불빛에 나방이 끌리듯 나도 그와 같이&lt;br&gt;얼룩이 비눗물에 녹아나듯 나도 그와 같이&lt;br&gt;자석의 양극단이 붙으려 하듯 나도 그와 같이&lt;br&gt;꿈을 찾고 싶소, 사랑 하고 싶소, 행복해지고 싶소.&lt;/p&gt;
+&lt;p&gt;白星 김선홍&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>회춘(灰春)</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%ED%9A%8C%EC%B6%98/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 회춘/</id>
+    <published>2018-03-10T11:33:15.000Z</published>
+    <updated>2018-03-10T11:33:21.676Z</updated>
+    
+    <content type="html"><![CDATA[<p>청춘(靑春)은 없다. 회춘(灰春)만 있을 뿐<br>절대 아름답지 않은 인생의 초입 추억은<br>잿빛의 현실에 줄에 걸린 꼭두각시처럼<br>웃음마저 집어삼키고 만다.<br>하고 싶은 것을 찾고 그것을 향해 꿈을 펼쳐라<br>그러나 하고 싶은 것이 무엇인지 찾을 수 있게<br>도와주었는가? 아니 적어도 지켜보았는가?<br>이른 시간 속에서 뒤처지더라도 고민했어야 했지만,<br>시간이 처한 시련이 장소가 시선이 마지막으로 철부지의 선택이<br>잿빛으로 봄을 물들였을 뿐<br>      그렇기에 회춘(灰春)만 있을 뿐</p><p>白星 김선홍</p><p><strong>회춘(灰春)</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;청춘(靑春)은 없다. 회춘(灰春)만 있을 뿐&lt;br&gt;절대 아름답지 않은 인생의 초입 추억은&lt;br&gt;잿빛의 현실에 줄에 걸린 꼭두각시처럼&lt;br&gt;웃음마저 집어삼키고 만다.&lt;br&gt;하고 싶은 것을 찾고 그것을 향해 꿈을 펼쳐라&lt;br&gt;그러나 하고 싶은 것이 
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>있다. 없다.</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%9E%88%EB%8B%A4%20%EC%97%86%EB%8B%A4/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 있다 없다/</id>
+    <published>2018-03-10T11:32:31.000Z</published>
+    <updated>2018-03-10T11:32:36.604Z</updated>
+    
+    <content type="html"><![CDATA[<p>없다.<br>머리가 없다.<br>손이 없다.<br>발이 없다.<br>팔이 없다.<br>다리가 없다.<br>목이 없다.<br>배가 없다.<br>가슴이 없다.<br>등이 없다.<br>피부가 없다.<br>근육이 없다.<br>신경이 없다.<br>소화기관이 없다.<br>호흡기관이 없다.<br>기타 장기가 없다.<br>심장이 없다.<br>아무것도 없다.<br>어떤 것도 없다.<br>모든 것이 없다.</p><p>있다.<br>빛이 있다.<br>시간이 있다.<br>대지가 있다.<br>물이 있다.<br>하늘이 있다.<br>우주가 있다.<br>태양이 있다.<br>달이 있다.<br>별이 있다.<br>식물이 있다.<br>동물이 있다.<br>사람이 있다.<br>아스팔트가 있다.<br>보행로가 있다.<br>건물이 있다.<br>가로등이 있다.<br>많은 것이 있다.<br>어떤 것도 있다.<br>모든 것이 있다.<br>모든 것이 없다.<br>모든 것이 있다.<br>그(그녀)가 없다.<br>그(그녀)를 제외한 나머지가 있다.<br>어떤 것도 없다.<br>어떤 것도 있다.<br>소중한 사람이 없다.<br>그 사람만 빼고 나머지가 있다.<br>아무것도 없다.<br>많은 것이 있다.</p><p>…….</p><p>그것을 제외한…….<br>없다. 있다.</p><p>白星 김선홍</p><p><strong>있다. 없다.</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;없다.&lt;br&gt;머리가 없다.&lt;br&gt;손이 없다.&lt;br&gt;발이 없다.&lt;br&gt;팔이 없다.&lt;br&gt;다리가 없다.&lt;br&gt;목이 없다.&lt;br&gt;배가 없다.&lt;br&gt;가슴이 없다.&lt;br&gt;등이 없다.&lt;br&gt;피부가 없다.&lt;br&gt;근육이 없다.&lt;br&gt;신경이 없다.&lt;br&gt;소화기관
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>바보야</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EB%B0%94%EB%B3%B4%EC%95%BC/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 바보야/</id>
+    <published>2018-03-10T11:31:44.000Z</published>
+    <updated>2018-03-10T11:31:47.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>뭘 봐?<br>그래서 보지 않았습니다.<br>뭘 들어?<br>그래서 듣지 않았습니다.<br>뭘 맡아?<br>그래서 맡지 않았습니다.<br>뭘 맛봐?<br>그래서 맛보지 않았습니다.<br>뭘 느껴?<br>그래서 느끼지 않았습니다.</p><p>바보야.<br>그 한마디에 나는,<br>기뻤습니다.<br>너무나 기뻐서,<br>눈을 뜨고,<br>귀를 열고,<br>코를 열고,<br>혀를 열고,<br>피부를 열었습니다.<br>내 앞의 그녀를,<br>온전히 기억할 수 있도록,<br>그녀를 보고,<br>그녀의 말을 듣고,<br>그녀의 머리 냄새를 맡고,<br>그녀의 입술을 맛보고,<br>그녀의 가슴을 만졌습니다.<br>그런데 다시 그녀가<br>바보야.<br>뭘 봐, 뭘 들어, 뭘 맡아, 뭘 맛봐, 뭘 느껴,</p><p>아침에 눈을 떠 앞을,<br>검은 테두리를,<br>팔(八)자의 리본을,<br>한 장의 사진을,<br>보았습니다.</p><p>오전에 귀를 열고,<br>하나의 테이프를,<br>그리운 목소리를,<br>유언이라는 메시지를,<br>들었습니다.</p><p>점심에 코를 열고,<br>진한 향냄새를,<br>진한 방부제 냄새를,<br>차가운 고깃덩이 냄새를,<br>맡았습니다.</p><p>오후에 입을 열고,<br>씁쓸한 술을,<br>육개장이라는 국을,<br>그녀가 좋아하던 귤을,<br>맛보았습니다.</p><p>저녁에 피부를 열고,<br>눈에서 흐르는 눈물을,<br>코에서 흐르는 콧물을,<br>땅에서 흐르는 나무관을,<br>느꼈습니다.</p><p>그리고 옷을 태우는 날,<br>나는 들었습니다.<br>나는 듣고 싶었습니다.<br>밝게 웃으며 늘 나에게 하던 그 말을…….</p><p>白星 김선홍</p><p><strong>바보야</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;뭘 봐?&lt;br&gt;그래서 보지 않았습니다.&lt;br&gt;뭘 들어?&lt;br&gt;그래서 듣지 않았습니다.&lt;br&gt;뭘 맡아?&lt;br&gt;그래서 맡지 않았습니다.&lt;br&gt;뭘 맛봐?&lt;br&gt;그래서 맛보지 않았습니다.&lt;br&gt;뭘 느껴?&lt;br&gt;그래서 느끼지 않았습니다.&lt;/p&gt;
+&lt;p&gt;바보
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>어느 화가의 후회</title>
+    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%96%B4%EB%8A%90%20%ED%99%94%EA%B0%80%EC%9D%98%20%ED%9B%84%ED%9A%8C/"/>
+    <id>http://hiseka.github.io/2018/03/10/2018-03-10 어느 화가의 후회/</id>
+    <published>2018-03-10T11:30:45.000Z</published>
+    <updated>2018-03-10T11:30:56.453Z</updated>
+    
+    <content type="html"><![CDATA[<p>사랑해라고 말했던 너이기에<br>오늘도 너의 모습을 그려본다.<br>하얀 도화지에 구도를 잡을 쯤<br>너의 모습을 다시 떠올리며<br>나는 눈물을 삼키고 삼킨다.<br>그리운 얼굴이 완성될 쯤<br>잠시 붓을 내리고 오열을 참는다.<br>완성된 너의 모습이 너무나 흐려<br>나를 원망하며 바닥에 주저앉으면<br>왠지 너의 마지막 모습과 향냄새가<br>나의 모든 것을 내려놓으라 말할까<br>끝까지 앉아 너의 모습을 바라본다.<br>그러다 문뜩 너에게 못 해준 말이 떠올라<br>그 말을 가슴속으로 외쳐본다.</p><p>사.</p><p>랑.</p><p>해.</p><p>라고…….</p><p>白星 김선홍</p><p><strong>어느 화가의 후회</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;사랑해라고 말했던 너이기에&lt;br&gt;오늘도 너의 모습을 그려본다.&lt;br&gt;하얀 도화지에 구도를 잡을 쯤&lt;br&gt;너의 모습을 다시 떠올리며&lt;br&gt;나는 눈물을 삼키고 삼킨다.&lt;br&gt;그리운 얼굴이 완성될 쯤&lt;br&gt;잠시 붓을 내리고 오열을 참는다.&lt;br&gt;완성된
+      
+    
+    </summary>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
+    
+    
+      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
+    
+      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
+    
+      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
+    
+      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
+    
+      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
+    
+      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
+    
+  </entry>
   
   <entry>
     <title>게임 시간</title>
@@ -224,534 +761,6 @@
         &lt;p&gt;오늘은 가락 못 타.&lt;br&gt;뱃속에서 각설이 타령이 울리어&lt;br&gt;지 진사댁 잔치 끝물&lt;br&gt;나~암은 것이나 먹으러 가자&lt;/p&gt;
 &lt;p&gt;얼~씨구 씨구 들어간다 아아&lt;br&gt;절~씨구 씨구 들어간다 아아&lt;/p&gt;
 &lt;p&gt;지 진사댁 잔치 끝물&lt;br&gt;남은 것이 있
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>보석이 흐른다.</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EB%B3%B4%EC%84%9D%EC%9D%B4%20%ED%9D%90%EB%A5%B8%EB%8B%A4/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 보석이 흐른다/</id>
-    <published>2018-03-10T05:54:46.000Z</published>
-    <updated>2018-03-10T05:54:51.331Z</updated>
-    
-    <content type="html"><![CDATA[<p>보석이 흐른다.</p><p>아이들 눈가에<br>보석이 흐른다.</p><p>아비 보고픈<br>그런 아이들 눈가에<br>보석이 흐른다.</p><p>아비 보고파<br>화장터 그곳에서<br>아이들 눈가에<br>보석이 흐른다.</p><p>아비 보고파<br>화장터 한 곳에서<br>아비 영정 사진 보며<br>몰래 아이들 눈가에<br>보석이 흐른다.</p><p>白星 김선홍</p><p><strong>보석이 흐른다.</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;보석이 흐른다.&lt;/p&gt;
-&lt;p&gt;아이들 눈가에&lt;br&gt;보석이 흐른다.&lt;/p&gt;
-&lt;p&gt;아비 보고픈&lt;br&gt;그런 아이들 눈가에&lt;br&gt;보석이 흐른다.&lt;/p&gt;
-&lt;p&gt;아비 보고파&lt;br&gt;화장터 그곳에서&lt;br&gt;아이들 눈가에&lt;br&gt;보석이 흐른다.&lt;/p&gt;
-&lt;p&gt;아비 보고
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>이야기였으면 좋겠다.</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%98%80%EC%9C%BC%EB%A9%B4%20%EC%A2%8B%EA%B2%A0%EB%8B%A4/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 이야기였으면 좋겠다/</id>
-    <published>2018-03-10T05:53:31.000Z</published>
-    <updated>2018-03-10T05:53:36.316Z</updated>
-    
-    <content type="html"><![CDATA[<p>남의 이야기였으면 좋겠다.<br>술도 못 하고 담배도 못 하고,<br>그렇다고 짊어진 짐을 내리지도 못하고,</p><p>드라마 속 이야기였으면 좋겠다.<br>엄마의 저 지랄 맞은 욕 소리가,<br>이 저주스러운 백수 생활도 모두,</p><p>차라리 꿈이었으면 좋겠다.<br>저주가 씐듯한 이 하루하루가,<br>나 자신조차 내가 믿지 못하는 이 상황이,</p><p>번개탄을 사다 피워놓을까?<br>그럼 모든 것이 꿈이 될까?<br>차라리……. 이야기였으면 좋겠다.</p><p>白星 김선홍</p><p><strong>이야기였으면 좋겠다.</strong> -벼랑 앞에서-</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;남의 이야기였으면 좋겠다.&lt;br&gt;술도 못 하고 담배도 못 하고,&lt;br&gt;그렇다고 짊어진 짐을 내리지도 못하고,&lt;/p&gt;
-&lt;p&gt;드라마 속 이야기였으면 좋겠다.&lt;br&gt;엄마의 저 지랄 맞은 욕 소리가,&lt;br&gt;이 저주스러운 백수 생활도 모두,&lt;/p&gt;
-&lt;p&gt;
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>면접</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EB%A9%B4%EC%A0%91/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 면접/</id>
-    <published>2018-03-10T05:52:54.000Z</published>
-    <updated>2018-03-10T05:52:58.123Z</updated>
-    
-    <content type="html"><![CDATA[<p>나를 가둔다. 상처받는 곳에서 멀리 떨어지도록<br>양쪽 시력이 같지 않아 가끔 나타나는 사시에<br>모자란 사람이라는 인상이 든다며 성형을 권유한다.<br>나이가 많은데 왜 이제까지 경력이 없냐며<br>무책임한 사람이라는 생각이 든다며 비정규직을 권유한다.<br>심호흡을 아무리 하여도 어쩔 수 없는 떨리는 목소리에<br>이 일은 힘들며 돈은 적고 배워야 할 일은 많다고 다른 직종을 권유한다.<br>나를 가둔다. 못 생기고, 나이 많고, 잘 떠는 나이기에<br>도망치듯 상처받는 곳에서 멀리 떨어진다.</p><p>白星 김선홍</p><p><strong>면접</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;나를 가둔다. 상처받는 곳에서 멀리 떨어지도록&lt;br&gt;양쪽 시력이 같지 않아 가끔 나타나는 사시에&lt;br&gt;모자란 사람이라는 인상이 든다며 성형을 권유한다.&lt;br&gt;나이가 많은데 왜 이제까지 경력이 없냐며&lt;br&gt;무책임한 사람이라는 생각이 든다며 비정규직
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>암중항해(暗中航海)</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%95%94%EC%A4%91%ED%95%AD%ED%95%B4/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 암중항해/</id>
-    <published>2018-03-10T05:52:18.000Z</published>
-    <updated>2018-03-10T05:52:23.027Z</updated>
-    
-    <content type="html"><![CDATA[<p>등댓불을 원하지만, 등대가 없다.<br>온 사방의 빛 한점 없는 망망대해에서<br>해류에 따라 멈추지 않고 떠밀리는 닻 없는 배를 몰며<br>어디로 가야 할지 가늠하지만, 아무것도 보이지 않는다.<br>하지만 움직인다. 움직여야만 한다. 언제 바다가 사나워져 삼킬지 모르기에<br>생각보다는 움직여야 한다. 하지만 그것조차 쉽지 않다.<br>누구도 칠흑 같은 어둠 속의 항해를 가르쳐주지 않았다.<br>그저 배의 구조와 밝은 날에 움직이는 것만 배웠을 뿐<br>없는 등대를 상상하며 이제는 나아가야 한다.<br>해류에 몸을 맡겨봤자 힘들어질 것을 알기에……</p><p>白星 김선홍</p><p><strong>암중항해(暗中航海)</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;등댓불을 원하지만, 등대가 없다.&lt;br&gt;온 사방의 빛 한점 없는 망망대해에서&lt;br&gt;해류에 따라 멈추지 않고 떠밀리는 닻 없는 배를 몰며&lt;br&gt;어디로 가야 할지 가늠하지만, 아무것도 보이지 않는다.&lt;br&gt;하지만 움직인다. 움직여야만 한다. 언제 바
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>퇴근길</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%ED%87%B4%EA%B7%BC%EA%B8%B8/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 퇴근길/</id>
-    <published>2018-03-10T05:51:42.000Z</published>
-    <updated>2018-03-10T05:51:46.658Z</updated>
-    
-    <content type="html"><![CDATA[<p>돌아가는 발걸음이 너무 무거워<br>포장마차 녹슨 의자에 걸터앉고<br>조용히 어묵에 소주 마시고<br>다시 술기운에 들린 다리로 돌아간다.<br>대문 앞 낡아 버린 명패를 보고<br>속이 뒤틀려 게워내고 비틀거리며<br>그 녹슨 대문에 기대어 하늘을 본다.<br>하늘이 안타깝다고 눈물 흘리고<br>그 빗물이 눈에서 흐른다.<br>문고리 부여잡지만…….<br>눈이 빗물에 앞을 가려…….</p><p>白星 김선홍</p><p><strong>퇴근길</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;돌아가는 발걸음이 너무 무거워&lt;br&gt;포장마차 녹슨 의자에 걸터앉고&lt;br&gt;조용히 어묵에 소주 마시고&lt;br&gt;다시 술기운에 들린 다리로 돌아간다.&lt;br&gt;대문 앞 낡아 버린 명패를 보고&lt;br&gt;속이 뒤틀려 게워내고 비틀거리며&lt;br&gt;그 녹슨 대문에 기대어 
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>김</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EA%B9%80/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 김/</id>
-    <published>2018-03-10T05:51:05.000Z</published>
-    <updated>2018-03-10T05:51:11.483Z</updated>
-    
-    <content type="html"><![CDATA[<p>히터가 고장 난 만원 버스에 올라 안경의 김을 지운다.<br>왜 안경에는 김이 서리는 것일까?<br>운동하고 온 이의 입김 때문일까?<br>추위에 손 녹이는 이의 입김 때문일까?<br>공사장에서 일하고 온 이의 입김 때문일까?<br>누구의 입김 때문에 김이 서리는 것일까?<br>다시 안경을 쓴다. 다시 김이 서린다.<br>다시 김을 지운다. 다시 김을 지운다.<br>그제야 느낀다. 삶의 무게에 힘들어하는 나의 입김 때문이란 걸…….<br>하지만 원인을 어떻게 해볼 시간도 없이<br>내려야 하는 정류장을 확인하기 위해 김을 지운다.<br>다시 지운다.</p><p>白星 김선홍</p><p><strong>김</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;히터가 고장 난 만원 버스에 올라 안경의 김을 지운다.&lt;br&gt;왜 안경에는 김이 서리는 것일까?&lt;br&gt;운동하고 온 이의 입김 때문일까?&lt;br&gt;추위에 손 녹이는 이의 입김 때문일까?&lt;br&gt;공사장에서 일하고 온 이의 입김 때문일까?&lt;br&gt;누구의 입김 
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자신들의 자식인 줄 모르고</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%9E%90%EC%8B%A0%EB%93%A4%EC%9D%98%20%EC%9E%90%EC%8B%9D%EC%9D%B8%20%EC%A4%84%20%EB%AA%A8%EB%A5%B4%EA%B3%A0/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 자신들의 자식인 줄 모르고/</id>
-    <published>2018-03-10T05:50:30.000Z</published>
-    <updated>2018-03-10T05:50:35.931Z</updated>
-    
-    <content type="html"><![CDATA[<p>어린 풀이 연해 가축의 먹이로 좋은 것처럼<br>어리기에 속는다. 속아준다. 속아 운다.<br>최저시급도 이런저런 핑계로 잘 모르는 법을 내세워<br>깎는다. 도려낸다. 쳐낸다. 자신들의 자식인 줄 모르고</p><p>어린 물고기가 힘이 없어 잡아 먹히기 좋은 것처럼<br>어리기에 속는다. 속아준다. 속아 운다.<br>젊다는 이유로 이런저런 일을 잘 모르는 주장을 내세워<br>맡긴다. 시킨다. 하게 만든다. 자신들의 자식인 줄 모르고</p><p>어린 동물이 힘이 없어 인형처럼 꾸미기 좋은 것처럼<br>어리기에 속는다. 속아준다. 속아 운다.<br>세상 물정 아직 모른다고 잘 모르는 이유를 내세워<br>속인다. 강요한다. 강매한다. 자신들의 자식인 줄 모르고</p><p>白星 김선홍</p><p><strong>자신들의 자식인 줄 모르고</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;어린 풀이 연해 가축의 먹이로 좋은 것처럼&lt;br&gt;어리기에 속는다. 속아준다. 속아 운다.&lt;br&gt;최저시급도 이런저런 핑계로 잘 모르는 법을 내세워&lt;br&gt;깎는다. 도려낸다. 쳐낸다. 자신들의 자식인 줄 모르고&lt;/p&gt;
-&lt;p&gt;어린 물고기가 힘이 없어 잡
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>살아간다는 것은</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%82%B4%EC%95%84%EA%B0%84%EB%8B%A4%EB%8A%94%20%EA%B2%83%EC%9D%80/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 살아간다는 것은/</id>
-    <published>2018-03-10T05:49:43.000Z</published>
-    <updated>2018-03-10T05:49:50.219Z</updated>
-    
-    <content type="html"><![CDATA[<p>살아간다는 것은 죽이는 것<br>감정을 죽이고 웃음에 속이는 것<br>아픔을 죽이고 행동에 감추는 것<br>불안을 죽이고 말에 숨기는 것</p><p>살아간다는 것은 죽이는 것<br>본 모습을 죽이고 분칠로 꾸미는 것<br>자산(資産)을 죽이고 유행을 따라가는 것<br>철학을 죽이고 대세에 합류하는 것</p><p>살아간다는 것은 죽여가는 것<br>자신을 죽이고 주변과 비교하는 것</p><p>白星 김선홍</p><p><strong>살아간다는 것은</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;살아간다는 것은 죽이는 것&lt;br&gt;감정을 죽이고 웃음에 속이는 것&lt;br&gt;아픔을 죽이고 행동에 감추는 것&lt;br&gt;불안을 죽이고 말에 숨기는 것&lt;/p&gt;
-&lt;p&gt;살아간다는 것은 죽이는 것&lt;br&gt;본 모습을 죽이고 분칠로 꾸미는 것&lt;br&gt;자산(資産)을 죽이고 
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>생각</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%83%9D%EA%B0%81/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 생각/</id>
-    <published>2018-03-10T05:48:54.000Z</published>
-    <updated>2018-03-10T05:48:58.628Z</updated>
-    
-    <content type="html"><![CDATA[<p>날 버린 년, 시집간 달, 그믐에<br>도장 찍던 손 멈추고 하늘을 바라보면<br>빛바랜 추억처럼 유리에 서리는 고향 모습에<br>차가운 흰 빛으로 물드는 정겨운 풍경의 그곳,<br>호랑이 할메는 아직도 어린 아들에게 야박한지<br>곡실이네 처마에는 아직도 칼싸움하던 얼음송곳 매달려 있는지<br>영희네 앞마당의 감나무에 까치밥은 다 쪼아 먹었는지<br>궁금하여 고개 돌려 전화하려 하다 보이는 서류 더미에<br>추억이라 생각했던 모든 생각이 향 연기처럼 흩어진다.</p><p>白星 김선홍</p><p><strong>생각</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;날 버린 년, 시집간 달, 그믐에&lt;br&gt;도장 찍던 손 멈추고 하늘을 바라보면&lt;br&gt;빛바랜 추억처럼 유리에 서리는 고향 모습에&lt;br&gt;차가운 흰 빛으로 물드는 정겨운 풍경의 그곳,&lt;br&gt;호랑이 할메는 아직도 어린 아들에게 야박한지&lt;br&gt;곡실이네 처마
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>오늘도 욕을 하고, 나는 운다.</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EC%98%A4%EB%8A%98%EB%8F%84%20%EC%9A%95%ED%95%98%EA%B3%A0%20%EB%82%98%EB%8A%94%20%EC%9A%B4%EB%8B%A4/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 오늘도 욕하고 나는 운다/</id>
-    <published>2018-03-10T05:48:10.000Z</published>
-    <updated>2018-03-10T05:48:16.475Z</updated>
-    
-    <content type="html"><![CDATA[<p>오늘도 욕을 한다.<br>마치 벼려왔던 것처럼 작은 목소리가 들린다는 이유로<br>없던 사실을 믿으며 이사 갈 곳도 없으면서 짐을 싼다.<br>제발 그만 하라고 울어보지만,</p><p>오늘도 욕을 한다.<br>마치 아는 사람인 것처럼 마음에 안 든다는 이유로<br>만나지도 않은 텔레비전 속 사람의 옷을 자신의 옷이라고 우긴다.<br>제발 그만 하라고 울어보지만,</p><p>오늘도 욕을 한다.<br>마치 소중한 것을 잃은 것처럼 친인척이 서운하게 했다는 이유로<br>너무 과거라 이제는 존재하지 않는 것을 존재한다고 말한다.<br>제발 그만 하라고 울어보지만,</p><p>제발 그만 하라고 울어보아도 변하지 않는다.<br>다 나의 책임인 것 같아 운다.<br>오늘도 베갯잇이 축축하다.</p><p>白星 김선홍</p><p><strong>오늘도 욕을 하고, 나는 운다.</strong> -부제 : 조현병에 걸린 우리 엄마-</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;오늘도 욕을 한다.&lt;br&gt;마치 벼려왔던 것처럼 작은 목소리가 들린다는 이유로&lt;br&gt;없던 사실을 믿으며 이사 갈 곳도 없으면서 짐을 싼다.&lt;br&gt;제발 그만 하라고 울어보지만,&lt;/p&gt;
-&lt;p&gt;오늘도 욕을 한다.&lt;br&gt;마치 아는 사람인 것처럼 마음에 안
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>감자</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EA%B0%90%EC%9E%90/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 감자/</id>
-    <published>2018-03-10T05:47:13.000Z</published>
-    <updated>2018-03-10T05:47:16.299Z</updated>
-    
-    <content type="html"><![CDATA[<p>땅의 눈물조차 얼려버린<br>그 추운 겨울에<br>오들오들 떠는 가난한 집<br>아이들의 배를 채워주고 싶다.<br>이 몸 바쳐<br>그 언 몸을 녹여주고 싶다.</p><p>땅의 눈물조차 얼어버린<br>그 추운 겨울에<br>가난한 집에 홀로 남은<br>할배의 배를 채워주고 싶다.<br>이 몸 썩여<br>그 언 몸을 녹여주고 싶다.</p><p>白星 김선홍</p><p><strong>감자</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;땅의 눈물조차 얼려버린&lt;br&gt;그 추운 겨울에&lt;br&gt;오들오들 떠는 가난한 집&lt;br&gt;아이들의 배를 채워주고 싶다.&lt;br&gt;이 몸 바쳐&lt;br&gt;그 언 몸을 녹여주고 싶다.&lt;/p&gt;
-&lt;p&gt;땅의 눈물조차 얼어버린&lt;br&gt;그 추운 겨울에&lt;br&gt;가난한 집에 홀로 남
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>하고 싶은 일이 있기에 한발을 띌 수 없다.</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%EC%9D%BC%EC%9D%B4%20%EC%9E%88%EA%B8%B0%EC%97%90%20%ED%95%9C%EB%B0%9C%EC%9D%84%20%EB%9D%8C%20%EC%88%98%20%EC%97%86%EB%8B%A4/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 하고 싶은 일이 있기에 한발을 띌 수 없다/</id>
-    <published>2018-03-10T05:46:25.000Z</published>
-    <updated>2018-03-10T05:46:30.163Z</updated>
-    
-    <content type="html"><![CDATA[<p>낭떠러지 기슭에 서서 한발을 내민다.<br>아래로 펼쳐진 풍경이 너무나 아름다워<br>조금만 더 앞으로 향할까 하다. 문뜩<br>등 뒤에 무거움에 뒤돌아본다.<br>엄마, 동생, 친구들 그 모습에 한발을 디딘다.<br>그리고 아쉬운 것을 떠올리며 고개를 돌린다.<br>너무 깜짝 놀라 엉덩방아 찧는다.<br>아름다운 풍경이었던 그곳엔…….  </p><p>白星 김선홍</p><p><strong>하고 싶은 일이 있기에 한발을 띌 수 없다.</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;낭떠러지 기슭에 서서 한발을 내민다.&lt;br&gt;아래로 펼쳐진 풍경이 너무나 아름다워&lt;br&gt;조금만 더 앞으로 향할까 하다. 문뜩&lt;br&gt;등 뒤에 무거움에 뒤돌아본다.&lt;br&gt;엄마, 동생, 친구들 그 모습에 한발을 디딘다.&lt;br&gt;그리고 아쉬운 것을 떠올리며
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>꽃은 피는가?</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EA%BD%83%EC%9D%80%20%ED%94%BC%EB%8A%94%EA%B0%80/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 꽃은 피는가/</id>
-    <published>2018-03-10T05:45:20.000Z</published>
-    <updated>2018-03-10T05:45:25.924Z</updated>
-    
-    <content type="html"><![CDATA[<p>너무 추운 동토에도 꽃은 핀다.<br>그것을 알고 있지만, 동토의 새벽에 그 차가움처럼<br>얼어붙은 대지는 쉽게 녹지 않는다.<br>언젠가 언젠가 꽃이 피겠지,<br>기다리고 기다리지만 기다림에 지치기만 할 뿐,<br>언제쯤 꽃을 볼 수 있을까?<br>차라리 동백나무를 찾아 나서는 것이 빠르지 않을까?<br>하지만 찾아 나서는 것조차 엄두가 나지 않는 동토에서<br>차가운 눈꽃으로 그 소망을 자위한다.  </p><p>白星 김선홍</p><p><strong>꽃은 피는가?</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;너무 추운 동토에도 꽃은 핀다.&lt;br&gt;그것을 알고 있지만, 동토의 새벽에 그 차가움처럼&lt;br&gt;얼어붙은 대지는 쉽게 녹지 않는다.&lt;br&gt;언젠가 언젠가 꽃이 피겠지,&lt;br&gt;기다리고 기다리지만 기다림에 지치기만 할 뿐,&lt;br&gt;언제쯤 꽃을 볼 수 있을까
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>당당하게 살고 싶지만</title>
-    <link href="http://hiseka.github.io/2018/03/10/2018-03-10%20%EB%8B%B9%EB%8B%B9%ED%95%98%EA%B2%8C%20%EC%82%B4%EA%B3%A0%20%EC%8B%B6%EC%A7%80%EB%A7%8C/"/>
-    <id>http://hiseka.github.io/2018/03/10/2018-03-10 당당하게 살고 싶지만/</id>
-    <published>2018-03-10T05:44:05.000Z</published>
-    <updated>2018-03-10T05:44:10.836Z</updated>
-    
-    <content type="html"><![CDATA[<p>죽여라! 영화 속 장수의 그 한마디처럼<br>당당하게 하늘 아래 한 점도 거리낌 없이<br>그리 살고 싶지만, 오늘도 상에 수저를 놓는다.<br>잘 알지도 못하면서 내일의 먹거리를 걱정하며<br>물잔에 물을 채우고 포장된 행주를 놓는다.<br>불경기에 한탄하며 제태크가 살길이라고 같이 푸념하며<br>앞접시에 찌개를 담아 차례차례 놓는다.<br>잘산다! 거짓으로 남아 한마디 하고 싶지만<br>힘들다 그 한마디로 연민을 호소한다.<br>당당하게 하늘 아래 한 점도 거리낌 없이 살고 싶지만,  </p><p>白星 김선홍</p><p><strong>당당하게 살고 싶지만</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;죽여라! 영화 속 장수의 그 한마디처럼&lt;br&gt;당당하게 하늘 아래 한 점도 거리낌 없이&lt;br&gt;그리 살고 싶지만, 오늘도 상에 수저를 놓는다.&lt;br&gt;잘 알지도 못하면서 내일의 먹거리를 걱정하며&lt;br&gt;물잔에 물을 채우고 포장된 행주를 놓는다.&lt;br&gt;불
       
     
     </summary>
