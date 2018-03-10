@@ -18,7 +18,7 @@
 <meta property="og:description" content="헥소이라는 툴 자체가 마크다운아니면 html을 기반으로 포스트를 쓸 수 밖에 없는 구조여서 마크다운의 레퍼런스를 정리해보았다. 특수 기호 나타내기(바로 사용)마크다운의 특징 중 하나는 HTML에서는 특수기호를 변환해서 사용해 주어야만 했다면 그럴 필요가 없다. 요컨대 &amp;amp;의 경우 &amp;amp; amp; (중간 공백이 없어야만 한다.)로 나타내야만 했다면">
 <meta property="og:locale" content="ko">
 <meta property="og:image" content="http://hiseka.github.io/images/hexo_index.png">
-<meta property="og:updated_time" content="2018-03-10T00:12:37.308Z">
+<meta property="og:updated_time" content="2018-03-10T05:18:08.591Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="마크다운 작성법">
 <meta name="twitter:description" content="헥소이라는 툴 자체가 마크다운아니면 html을 기반으로 포스트를 쓸 수 밖에 없는 구조여서 마크다운의 레퍼런스를 정리해보았다. 특수 기호 나타내기(바로 사용)마크다운의 특징 중 하나는 HTML에서는 특수기호를 변환해서 사용해 주어야만 했다면 그럴 필요가 없다. 요컨대 &amp;amp;의 경우 &amp;amp; amp; (중간 공백이 없어야만 한다.)로 나타내야만 했다면">
@@ -194,7 +194,7 @@ ga('send', 'pageview');
                 
     <div class="article-date">
         <a href="/2018/03/10/2018-03-10 마크다운 작성법/" class="article-date">
-            <time datetime="2018-03-09T15:00:00.000Z" itemprop="datePublished">2018-03-10</time>
+            <time datetime="2018-03-10T00:00:00.000Z" itemprop="datePublished">2018-03-10</time>
         </a>
     </div>
 
@@ -212,38 +212,14 @@ ga('send', 'pageview');
 <h2 id="특수-기호-나타내기-바로-사용"><a href="#특수-기호-나타내기-바로-사용" class="headerlink" title="특수 기호 나타내기(바로 사용)"></a>특수 기호 나타내기(바로 사용)</h2><p>마크다운의 특징 중 하나는 HTML에서는 특수기호를 변환해서 사용해 주어야만 했다면 그럴 필요가 없다.</p>
 <p>요컨대 &amp;의 경우 &amp; amp; (중간 공백이 없어야만 한다.)로 나타내야만 했다면 마크다운에서는 그냥 &amp;으로 적어주면 된다.</p>
 <h2 id="제목-나타내기"><a href="#제목-나타내기" class="headerlink" title="제목 나타내기"></a>제목 나타내기</h2><p>HTML의 h1~h6까지의 계층적인 제목 설정을 마크다운에서도 해줄 수 있다.</p>
-<pre>
-가가가
-===
-
-나나나
----
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">가가가</span><br><span class="line">===</span><br><span class="line"></span><br><span class="line">나나나</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 <h1 id="가가가"><a href="#가가가" class="headerlink" title="가가가"></a>가가가</h1><h2 id="나나나"><a href="#나나나" class="headerlink" title="나나나"></a>나나나</h2><p>위와 같이 글의 아래에 등호를 넣어주면 h1에 대응하는 가장 큰 제목이 그냥 하프 바를 사용하면 h2에 대응하는 큰 제목이 출력된다. 다만 아래에 글자 수에 맞추어서 등호나 하프 바를 넣어주어야 하는 귀찮은 점이 있는데 이점을 아래와 같이 해결할 수 있다.</p>
-<pre>
-# 가가가
-## 나나나
-### 다다다
-#### 라라라
-##### 마마마
-###### 바바바
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 가가가</span><br><span class="line">## 나나나</span><br><span class="line">### 다다다</span><br><span class="line">#### 라라라</span><br><span class="line">##### 마마마</span><br><span class="line">###### 바바바</span><br></pre></td></tr></table></figure>
 <h1 id="가가가-1"><a href="#가가가-1" class="headerlink" title="가가가"></a>가가가</h1><h2 id="나나나-1"><a href="#나나나-1" class="headerlink" title="나나나"></a>나나나</h2><h3 id="다다다"><a href="#다다다" class="headerlink" title="다다다"></a>다다다</h3><h4 id="라라라"><a href="#라라라" class="headerlink" title="라라라"></a>라라라</h4><h5 id="마마마"><a href="#마마마" class="headerlink" title="마마마"></a>마마마</h5><h6 id="바바바"><a href="#바바바" class="headerlink" title="바바바"></a>바바바</h6><p>h1~h6에 대응되는 제목을 샵의 개수로 표현할 수 있다. 또한, HTML처럼 닫아주는 것도 가능하다.</p>
-<pre>
-## 나나나 ##
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">## 나나나 ##</span><br></pre></td></tr></table></figure>
 <h2 id="나나나-2"><a href="#나나나-2" class="headerlink" title="나나나"></a>나나나</h2><p>이런 형태로 말이다.</p>
 <h2 id="인용구"><a href="#인용구" class="headerlink" title="인용구"></a>인용구</h2><p>인용구를 나타내기 위해서는 &gt;표시를 처음에 넣어주면 인용을 표현해 준다. 요컨대</p>
-<pre>
-> ## 뭐가 더 크지?
-> 
-> 1.   하늘이 더 크다.
-> 2.   바다가 더 크다.
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&gt; ## 뭐가 더 크지?</span><br><span class="line">&gt; </span><br><span class="line">&gt; 1.   하늘이 더 크다.</span><br><span class="line">&gt; 2.   바다가 더 크다.</span><br></pre></td></tr></table></figure>
 <blockquote>
 <h4 id="뭐가-더-크지"><a href="#뭐가-더-크지" class="headerlink" title="뭐가 더 크지?"></a>뭐가 더 크지?</h4><ol>
 <li>하늘이 더 크다.</li>
@@ -252,20 +228,7 @@ ga('send', 'pageview');
 </blockquote>
 <p>이런 식으로 인용구를 만들 수 있고 인용 안에는 다른 문법을 사용할 수 있다. HTML의 blockquote에 대응한다고 보면 되겠다.</p>
 <h2 id="목록"><a href="#목록" class="headerlink" title="목록"></a>목록</h2><p>목록을 나타내기 위해서는 *, +, -, 숫자 등이 사용된다. 요컨대</p>
-<pre>
-* 가
-* 나
-* 다
-
-+ 라
-+ 마
-+ 사
-
-- 아
-- 자
-- 차
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">* 가</span><br><span class="line">* 나</span><br><span class="line">* 다</span><br><span class="line"></span><br><span class="line">+ 라</span><br><span class="line">+ 마</span><br><span class="line">+ 사</span><br><span class="line"></span><br><span class="line">- 아</span><br><span class="line">- 자</span><br><span class="line">- 차</span><br></pre></td></tr></table></figure>
 <ul>
 <li>가</li>
 <li>나</li>
@@ -282,20 +245,7 @@ ga('send', 'pageview');
 <li>차</li>
 </ul>
 <p>더하기, 곱하기, 빼기 등 어떤 것으로도 앞에 넣어주고 한 칸 띄고 글을 쓰면 목록이 만들어진다. HTML의 ul, li과 대응되는 기능이다.</p>
-<pre>
-1. 타
-2. 파
-3. 하
-
-1. 나
-1. 무
-1. 야
-
-3. 바
-5. 야
-4. 다
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">1. 타</span><br><span class="line">2. 파</span><br><span class="line">3. 하</span><br><span class="line"></span><br><span class="line">1. 나</span><br><span class="line">1. 무</span><br><span class="line">1. 야</span><br><span class="line"></span><br><span class="line">3. 바</span><br><span class="line">5. 야</span><br><span class="line">4. 다</span><br></pre></td></tr></table></figure>
 <ol>
 <li>타</li>
 <li>파</li>
@@ -312,14 +262,7 @@ ga('send', 'pageview');
 <li>다</li>
 </ol>
 <p>숫자가 들어간 목록의 경우 앞에 숫자를 순서대로 넣어주던지 1.만 통일하던지 엉뚱한 순서로 숫자를 써도 그 출력되는 모습은 순서대로 목록이 만들어진다. HTML의 ol, li과 대응되는 기능이다.</p>
-<pre>
-* 뚱이는 배가 아팠습니다.
-
-    그래서 내가 나으라고 배를 문질러 줬어요! 문질문질 배야 나아라! 그러자 뚱이는 배가 그만 아팠어요!
-
-* 배 아픈 뚱이!
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">* 뚱이는 배가 아팠습니다.</span><br><span class="line"></span><br><span class="line">    그래서 내가 나으라고 배를 문질러 줬어요! 문질문질 배야 나아라! 그러자 뚱이는 배가 그만 아팠어요!</span><br><span class="line"></span><br><span class="line">* 배 아픈 뚱이!</span><br></pre></td></tr></table></figure>
 <ul>
 <li><p>뚱이는 배가 아팠습니다.</p>
 <p>  그래서 내가 나으라고 배를 문질러 줬어요! 문질문질 배야 나아라! 그러자 뚱이는 배가 그만 아팠어요!</p>
@@ -328,26 +271,14 @@ ga('send', 'pageview');
 </li>
 </ul>
 <p>이런 형태로 목록에 문단을 넣을 수 있고 목록 사이에 4칸을 띄어서 쓴다면 추가적인 문단을 넣을 수도 있다. 또한, 앞서 말한 인용구도 목록에 포함할 수 있으며 바로 아래 언급할 코드 인용구도 목록에 넣을 수 있다.</p>
-<pre>
-1998. 그 해는 매우 추웠다.
-
-1998\. 그 해는 매우 추웠다.
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1998. 그 해는 매우 추웠다.</span><br><span class="line"></span><br><span class="line">1998\. 그 해는 매우 추웠다.</span><br></pre></td></tr></table></figure>
 <ol>
 <li>그 해는 매우 추웠다.</li>
 </ol>
 <p>1998. 그 해는 매우 추웠다.</p>
 <p>마지막으로 마크다운으로 위와 같이 목록을 나타내기는 쉽지만, 그 때문에 연도 등을 나타낼 때 출력의 오류가 날 수 있는 데 이럴 경우 원화 표시를 숫자 뒤에 붙혀주면 목록으로 처리되지 않고 숫자로 처리된다.</p>
 <h2 id="코드-인용구"><a href="#코드-인용구" class="headerlink" title="코드 인용구"></a>코드 인용구</h2><p>마크다운 내에서 코드를 표현해야 할 때는 , 라는 HTML 태그를 사용한다.</p>
-<h2 id="수평선"><a href="#수평선" class="headerlink" title="수평선"></a>수평선</h2><pre>
-* * *
-***
-*****
-- - -
---------
-</pre>
-
+<h2 id="수평선"><a href="#수평선" class="headerlink" title="수평선"></a>수평선</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">* * *</span><br><span class="line">***</span><br><span class="line">*****</span><br><span class="line">- - -</span><br><span class="line">--------</span><br></pre></td></tr></table></figure>
 <hr>
 <hr>
 <hr>
@@ -355,77 +286,37 @@ ga('send', 'pageview');
 <hr>
 <p>수평선을 나타낼 때는 곱하기나 빼기를 공란을 포함하거나 제외하고 3개 이상 한 줄에 넣어주면 수평선이 나타난다. HTML의 hr 태그와 대응되는 기능이다.</p>
 <h2 id="링크"><a href="#링크" class="headerlink" title="링크"></a>링크</h2><p>링크를 나타내기 위해서는 다음과 같이 사용할 수 있다.</p>
-<pre>
-다음은 [구글](https://www.google.com/)에서 검색하세요!
-
-다음은 [깃허브](https://github.com/ "깃허브")에 적용해 보세요!
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">다음은 [구글](https://www.google.com/)에서 검색하세요!</span><br><span class="line"></span><br><span class="line">다음은 [깃허브](https://github.com/ &quot;깃허브&quot;)에 적용해 보세요!</span><br></pre></td></tr></table></figure>
 <p>다음은 <a href="https://www.google.com/" rel="external nofollow noopener noreferrer" target="_blank">구글</a>에서 검색하세요!</p>
 <p>다음은 <a href="https://github.com/" title="깃허브" rel="external nofollow noopener noreferrer" target="_blank">깃허브</a>에 적용해 보세요!</p>
 <p>위는 링크의 타이틀을 붙힌 링크이고 아래는 그렇지 못한 링크이다. 이런식으로 링크는 단어를 대괄호에 넣고 소괄호에 주소와 타이틀 또는 주소만 넣어주어서 링크를 나타낼 수 있다. 만약 동일 사이트 내에서라면 링크 말고 경로만 넣어주어도 상관없이 적용할 수 있다.</p>
-<pre>
-안드로이드와 크롬으로 유명한 [구글][google]은 사실 검색사이트다.
-
-안드로이드와 크롬으로 유명한 [구글] [google]은 사실 검색사이트다.
-
-[google]: https://www.google.com/
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">안드로이드와 크롬으로 유명한 [구글][google]은 사실 검색사이트다.</span><br><span class="line"></span><br><span class="line">안드로이드와 크롬으로 유명한 [구글] [google]은 사실 검색사이트다.</span><br><span class="line"></span><br><span class="line">[google]: https://www.google.com/</span><br></pre></td></tr></table></figure>
 <p>안드로이드와 크롬으로 유명한 <a href="https://www.google.com/" rel="external nofollow noopener noreferrer" target="_blank">구글</a>은 사실 검색사이트다.</p>
 <p>안드로이드와 크롬으로 유명한 <a href="https://www.google.com/" rel="external nofollow noopener noreferrer" target="_blank">구글</a>은 사실 검색사이트다.</p>
 <p>위와 같이 대괄호로 링크를 걸 단어를 지정하고 그 뒤에 그 링크 주소를 넣을 수 있도록 대괄호를 통해 아이디가 되는 단어를 지정한 뒤 문단의 끝에 주소를 넣어주어도 동작한다. 이때 아이디로 지정되는 단어는 대소문자 구분하지 않는다.</p>
 <p>이때 주소 뒤에 큰따옴표, 작은따옴표, 소괄호를 통해 타이틀을 지정할 수 있는데 마크다운 버전 차이로 타이틀은 적용이 안 되는 경우도 있다(해당 스킨에서는 타이틀 적용이 안 된다).</p>
-<pre>
-마크다운은 [Daring Fireball][]에서 그 레퍼런스를 찾을 수 있다.
-
-[Daring Fireball]: https://daringfireball.net
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">마크다운은 [Daring Fireball][]에서 그 레퍼런스를 찾을 수 있다.</span><br><span class="line"></span><br><span class="line">[Daring Fireball]: https://daringfireball.net</span><br></pre></td></tr></table></figure>
 <p>마크다운은 <a href="https://daringfireball.net" rel="external nofollow noopener noreferrer" target="_blank">Daring Fireball</a>에서 그 레퍼런스를 찾을 수 있다.</p>
 <p>굳이 아이디를 지정하지 않아도 링크를 걸 문장 또는 단어를 아이디처럼도 사용할 수 있다.</p>
 <h2 id="강조"><a href="#강조" class="headerlink" title="강조"></a>강조</h2><p>HTML의 strong, em 등 강조를 하는 것을 마크다운에서는 다음과 같이 표현한다.</p>
-<pre>
-*하마*
-
-_코끼리_
-
-**기린**
-
-__코뿔소__
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">*하마*</span><br><span class="line"></span><br><span class="line">_코끼리_</span><br><span class="line"></span><br><span class="line">**기린**</span><br><span class="line"></span><br><span class="line">__코뿔소__</span><br></pre></td></tr></table></figure>
 <p><em>하마</em></p>
 <p><em>코끼리</em></p>
 <p><strong>기린</strong></p>
 <p><strong>코뿔소</strong></p>
 <p>이런 식으로 하나의 언더바나 곱하기 표시를 양단에 넣어주면 기울임 체로 두 개의 언더바나 곱하기 표시를 양단에 넣어주면 두껍게 표시된다.</p>
-<pre>
-\*독수리\*
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\*독수리\*</span><br></pre></td></tr></table></figure>
 <p>*독수리*</p>
 <p>만약 강조 문구에 사용된 언더바나 곱하기가 강조 문구가 아닌 그대로 표시하고 싶다면 위와 같이 원화 표시를 언더바나 곱하기 전에 넣어주면 된다.</p>
 <h2 id="코드"><a href="#코드" class="headerlink" title="코드"></a>코드</h2><p>코드를 인용할 것이 아니라 코드를 서술시 그사이에 나타내려고 한다면 즉 인라인으로 나타내고 싶다면 다음과 같이 나타내면 된다.</p>
-<pre>
-출력하는 스크립트 문은 `printf()`이다.
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">출력하는 스크립트 문은 `printf()`이다.</span><br></pre></td></tr></table></figure>
 <p>출력하는 스크립트 문은 <code>printf()</code>이다.</p>
 <p>키보드에서 숫자키 옆에 ~키를 시프트 누르지 않고 나타내는 억음 부호를 통해 인라인에서 코드를 표현할 수 있다.</p>
-<pre>
-`` 코드 (`) ``
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`` 코드 (`) ``</span><br></pre></td></tr></table></figure>
 <p><code>코드 (`)</code></p>
 <p>코드 내에서 억음 부호를 나타내고 싶다면 다음처럼 코드 전후를 억음 부호를 한 번 더 사용해 주면 된다.</p>
 <h2 id="이미지"><a href="#이미지" class="headerlink" title="이미지"></a>이미지</h2><p>마크다운에서 이미지를 나타낼 때는 다음과 같이 나타낼 수 있다.</p>
-<pre>
-![공사중](http://via.placeholder.com/50x50)
-
-![공사중](http://via.placeholder.com/50x50 "대체 이미지")
-</pre>
-
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">![공사중](http://via.placeholder.com/50x50)</span><br><span class="line"></span><br><span class="line">![공사중](http://via.placeholder.com/50x50 &quot;대체 이미지&quot;)</span><br></pre></td></tr></table></figure>
 <p><img src="http://via.placeholder.com/50x50" alt="공사중"></p>
 <p><img src="http://via.placeholder.com/50x50" alt="공사중" title="대체 이미지"></p>
 <p>링크와 같은 문법을 사용한다. 다만 이미지인 것을 알리기 위해 앞에 느낌표를 붙히는 것이 특징이다.</p>
@@ -619,7 +510,7 @@ __코뿔소__
                         <div class="item-inner">
                             <p class="item-category"><a class="article-category-link" href="/categories/Living/">Living</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Living/Hexo/">Hexo</a></p>
                             <p class="item-title"><a href="/2018/03/10/2018-03-10 마크다운 작성법/" class="title">마크다운 작성법</a></p>
-                            <p class="item-date"><time datetime="2018-03-09T15:00:00.000Z" itemprop="datePublished">2018-03-10</time></p>
+                            <p class="item-date"><time datetime="2018-03-10T00:00:00.000Z" itemprop="datePublished">2018-03-10</time></p>
                         </div>
                     </li>
                 
@@ -639,7 +530,7 @@ __코뿔소__
                         <div class="item-inner">
                             <p class="item-category"><a class="article-category-link" href="/categories/Living/">Living</a><i class="icon fa fa-angle-right"></i><a class="article-category-link" href="/categories/Living/Hexo/">Hexo</a></p>
                             <p class="item-title"><a href="/2018/03/09/2018-03-09 텀블러를 떠나/" class="title">텀블러를 떠나</a></p>
-                            <p class="item-date"><time datetime="2018-03-08T15:00:00.000Z" itemprop="datePublished">2018-03-09</time></p>
+                            <p class="item-date"><time datetime="2018-03-09T00:00:00.000Z" itemprop="datePublished">2018-03-09</time></p>
                         </div>
                     </li>
                 
