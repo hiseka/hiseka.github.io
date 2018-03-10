@@ -1,0 +1,10 @@
+/* 부제목 색변경 */
+.article-subposttitle {font-size: 12px;
+    text-decoration: none;
+    line-height: 14px;
+    color: #3e3f43;
+    background-color: #e7e8ec;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
