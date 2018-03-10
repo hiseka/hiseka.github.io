@@ -230,9 +230,8 @@ body,
 }
 body {
   background: #eaeaea;
-  font: 14px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font: 14px "Montserrat", "NanumSquareRound", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   -webkit-text-size-adjust: 100%;
-  font-family: 'Montserrat' 'NanumSquareRound' sans-serif;
 }
 code {
   margin: 0 2px;
@@ -534,7 +533,7 @@ code {
   -moz-transition: 0.2s ease-in;
   -ms-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
-  font: 16px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font: 16px "Montserrat", "NanumSquareRound", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   color: rgba(255,255,255,0.7);
 }
 .search-form-input:focus,
@@ -759,7 +758,7 @@ code {
 }
 .widget-list ul li,
 .widget-list ol li {
-  padding: 10px 0;
+  padding: 5px 0;
   font-size: 15px;
   border-bottom: 1px solid #e4e4e4;
 }
@@ -788,11 +787,13 @@ code {
 .widget-list ul ol,
 .widget-list ol ol {
   list-style: none;
+  padding-top: 7px;
 }
 .widget-list ul ul li,
 .widget-list ol ul li,
 .widget-list ul ol li,
 .widget-list ol ol li {
+  padding: 3px 0;
   border: none;
 }
 .widget-list ul ul li:last-child,
@@ -1200,7 +1201,7 @@ a.article-title:hover {
 .article-entry blockquote footer {
   font-size: 14px;
   margin: 1.6em 0;
-  font-family: "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font-family: "Montserrat", "NanumSquareRound", Helvetica, Arial, "Microsoft Yahei", sans-serif;
 }
 .article-entry blockquote footer cite:before {
   content: "—";
@@ -1312,7 +1313,7 @@ a.article-title:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  font: 14px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
+  font: 14px "Montserrat", "NanumSquareRound", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   padding: 0 15px;
   color: #555;
   outline: none;
