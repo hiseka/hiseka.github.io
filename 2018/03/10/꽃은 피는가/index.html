@@ -108,10 +108,6 @@ ga('send', 'pageview');
                                     <a class="main-nav-list-link" href="/copyright.html">저작권</a>
                                 </li>
                             
-                                <li class="main-nav-list-item">
-                                    <a class="main-nav-list-link" href="/popularposts.html">인기포스트</a>
-                                </li>
-                            
                         </ul>
                         <nav id="sub-nav">
                             <div id="search-form-wrap">
@@ -154,6 +150,50 @@ ga('send', 'pageview');
                         </nav>
                     </div>
                 </div>
+                <style>
+@media only screen and (min-width: 480px){
+    .post-nav{
+        display:block;
+        height:27px;
+        width:100%;
+        background-color:#000;
+    }
+    .post-nav-inner{
+        padding:0 15px;
+    }
+    .post-nav-inner li{
+        padding:4px 10px 4px 0;
+        display:inline-block;
+    }
+    .post-nav-inner li a{
+        color:rgba(255,255,255,0.7);
+        font-size:15px;
+        text-decoration:none;
+    }
+    .post-nav-inner li a:hover,
+    .post-nav-inner li i{
+        color:rgba(255,255,255);
+    }
+}
+@media only screen and (max-width: 479px){
+    .post-nav{
+        display:none;
+    }
+}
+</style>
+<div class="post-nav">
+    <ul class="post-nav-inner">
+        <li>
+            <i class="fa fa-star"></i><a href="/2018/03/13/fee/">무실적 무조건 수수료 면제 계좌(ver.2018)</a>
+        </li>
+        <li>
+            <i class="fa fa-star"></i><a href="/">인생 첫 해외여행을 가다!(준비중)</a>
+        </li>
+        <li>
+            <i class="fa fa-star"></i><a href="/">게임 관련 사이트(준비중)</a>
+        </li>
+    </ul>
+</div>
             </div>
         </div>
     </div>
