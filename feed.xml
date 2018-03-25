@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://hiseka.github.io/"/>
-  <updated>2018-03-21T11:24:38.947Z</updated>
+  <updated>2018-03-25T02:23:10.089Z</updated>
   <id>http://hiseka.github.io/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>해외 결제 수수료는 같은데 청구된 금액은 다르다?</title>
+    <link href="http://hiseka.github.io/2018/03/25/%ED%95%B4%EC%99%B8%20%EA%B2%B0%EC%A0%9C%20%EC%88%98%EC%88%98%EB%A3%8C%EB%8A%94%20%EA%B0%99%EC%9D%80%EB%8D%B0%20%EC%B2%AD%EA%B5%AC%EB%90%9C%20%EA%B8%88%EC%95%A1%EC%9D%B4%20%EB%8B%A4%EB%A5%B4%EB%8B%A4/"/>
+    <id>http://hiseka.github.io/2018/03/25/해외 결제 수수료는 같은데 청구된 금액이 다르다/</id>
+    <published>2018-03-25T02:22:00.000Z</published>
+    <updated>2018-03-25T02:23:10.089Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>관련글 : <a href="/2018/03/10/해외%20결제%20수수료와%20아끼는%20법%20그리고%20추천%20체크카드/" title="해외 결제 수수료와 아끼는 법 그리고 추천 체크카드">해외 결제 수수료와 아끼는 법 그리고 추천 체크카드</a></strong></p><p><strong>해외 결제 수수료와 아끼는 법 그리고 추천 체크카드</strong>에서 다루었던 것처럼 해외 결제에서 청구되는 금액을 좌우하는 것은 결제 금액과 각종 수수료 정도이다. 그러나 같은 금액과 같은 수수료이지만 청구되는 금액이 다를 수 있다. 왜일까?</p><p>우선 가장 대표적인 예로 비자와 마스터 카드를 예를 들어 보겠다. 비자와 마스터 카드로 <strong>10000NGN</strong>(나이지리아 화폐 단위)의 상품을 구매한다고 했을때 얼마나 결제될까?</p><p>결론만 말하자면 다음과 같다.<br><strong>VISA - 36.385원 내외</strong><br><strong>MASTER - 30,900원 내외</strong></p><p>왜 이렇게 차이가 날까? 그것은 다음과 같다. 결제를 국제 기준 통화로 결제하지 않을시 보통 마스터와 비자는 USD로 해당 금액을 환전하여 나온 금액을 국내 카드사에 청구한다. 이때 각 카드사에서 해당 통화와 USD의 교환 비율 즉 환전 비율이 달라서 생기는 현상이다.</p><p>VISA의 경우 전날(2018-03-24) 기준으로 <strong>10000 NGN = 33.04 USD</strong>로 교환되었다.</p><p>MASTER의 경우 전날(2018-03-24) 기준으로 <strong>10000 NGN = 28.06 USD</strong>로 교환되었다.</p><p>이렇게 환전 비율이 다르니 당연히 국내 결제 금액은 달라질 수 밖에 없는 것이다.</p><p>이렇듯 USD가 아닌 타 통화로 심지어 DCC(자국 통화 결제) 또한 해당 환전 비율에 따라 그 금액이 매우 많이 차이 날 수 있다. 이 점을 알아 둔다면 더 손해 보지 않고 구매할 수 있지 않을까?</p><p>마지막으로 다음 목록은 언급했던 VISA와 MASTER 브랜드의 환전 비율을 알아 볼 수 있는 사이트이다.</p><ul><li><a href="https://www.visa.com.au/travel-with-visa/exchange-rate-calculator.html" title="VISA 환율 계산기" rel="external nofollow noopener noreferrer" target="_blank">VISA</a></li><li><a href="https://www.mastercard.us/en-us/consumers/get-support/convert-currency.html" title="MASTER 환율 계산기" rel="external nofollow noopener noreferrer" target="_blank">MASTER</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;관련글 : &lt;a href=&quot;/2018/03/10/해외%20결제%20수수료와%20아끼는%20법%20그리고%20추천%20체크카드/&quot; title=&quot;해외 결제 수수료와 아끼는 법 그리고 추천 체크카드&quot;&gt;해외 결제 수수료와 아끼는 법 그리고
+      
+    
+    </summary>
+    
+      <category term="Living" scheme="http://hiseka.github.io/categories/Living/"/>
+    
+      <category term="Money" scheme="http://hiseka.github.io/categories/Living/Money/"/>
+    
+    
+      <category term="수수료" scheme="http://hiseka.github.io/tags/%EC%88%98%EC%88%98%EB%A3%8C/"/>
+    
+      <category term="Fees" scheme="http://hiseka.github.io/tags/Fees/"/>
+    
+      <category term="해외 결제" scheme="http://hiseka.github.io/tags/%ED%95%B4%EC%99%B8-%EA%B2%B0%EC%A0%9C/"/>
+    
+      <category term="Overseas Payment" scheme="http://hiseka.github.io/tags/Overseas-Payment/"/>
+    
+      <category term="신용카드" scheme="http://hiseka.github.io/tags/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C/"/>
+    
+      <category term="Credit Card" scheme="http://hiseka.github.io/tags/Credit-Card/"/>
+    
+      <category term="체크카드" scheme="http://hiseka.github.io/tags/%EC%B2%B4%ED%81%AC%EC%B9%B4%EB%93%9C/"/>
+    
+      <category term="Check Card" scheme="http://hiseka.github.io/tags/Check-Card/"/>
+    
+      <category term="돈" scheme="http://hiseka.github.io/tags/%EB%8F%88/"/>
+    
+      <category term="Money" scheme="http://hiseka.github.io/tags/Money/"/>
+    
+  </entry>
   
   <entry>
     <title>미래의 금융.</title>
@@ -726,44 +771,6 @@
 &lt;p&gt;열병에 약 한 번 못 쓰는 것보다&lt;br&gt;눈물나는 일 어디있으랴&lt;/p&gt;
 &lt;p&gt;차라리&lt;br&gt;별이 되었으면…….&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>눈의 순결함에 치유받고 싶다.</title>
-    <link href="http://hiseka.github.io/2018/03/15/%EB%88%88%EC%9D%98%20%EC%88%9C%EA%B2%B0%ED%95%A8%EC%97%90%20%EC%B9%98%EC%9C%A0%EB%B0%9B%EA%B3%A0%20%EC%8B%B6%EB%8B%A4/"/>
-    <id>http://hiseka.github.io/2018/03/15/눈의 순결함에 치유받고 싶다/</id>
-    <published>2018-03-15T11:31:31.000Z</published>
-    <updated>2018-03-15T11:31:37.442Z</updated>
-    
-    <content type="html"><![CDATA[<p>순결한 신의 조각이 내리는<br>이 추은 해 비치는 날에…….<br>가슴 아픈 옛 그리움과<br>얼음 송곳 같은 현실의 아픔이<br>떠오르는 이날에…….<br>그 신의 조각의 순결함으로<br>그 아픔 치유 받고 싶다.</p><p>그 순결함으로 치유 받고 싶다.</p><p>白星 김선홍</p><p><strong>눈의 순결함에 치유받고 싶다.</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;순결한 신의 조각이 내리는&lt;br&gt;이 추은 해 비치는 날에…….&lt;br&gt;가슴 아픈 옛 그리움과&lt;br&gt;얼음 송곳 같은 현실의 아픔이&lt;br&gt;떠오르는 이날에…….&lt;br&gt;그 신의 조각의 순결함으로&lt;br&gt;그 아픔 치유 받고 싶다.&lt;/p&gt;
-&lt;p&gt;그 순결함으로 
       
     
     </summary>
