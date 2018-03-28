@@ -49,15 +49,22 @@
     </url>
 
     <url>
-        <loc>http://hiseka.github.io/categories/Living/</loc>
+        <loc>http://hiseka.github.io/categories/Living/Money/</loc>
         <lastmod>2018-03-28T00:06:45.446Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://hiseka.github.io/categories/Living/Money/</loc>
-        <lastmod>2018-03-28T00:06:45.446Z</lastmod>
+        <loc>http://hiseka.github.io/categories/Living/</loc>
+        <lastmod>2018-03-28T06:55:00.394Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/categories/Living/Game/</loc>
+        <lastmod>2018-03-28T06:55:00.394Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
