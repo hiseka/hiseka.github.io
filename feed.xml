@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://hiseka.github.io/"/>
-  <updated>2018-04-18T12:49:39.696Z</updated>
+  <updated>2018-04-22T06:22:43.838Z</updated>
   <id>http://hiseka.github.io/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>구글 플레이에서 원화 결제 막힌 게임 결제하기</title>
+    <link href="http://hiseka.github.io/2018/04/22/%EA%B5%AC%EA%B8%80%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%97%90%EC%84%9C%20%EC%9B%90%ED%99%94%20%EA%B2%B0%EC%A0%9C%20%EB%A7%89%ED%9E%8C%20%EA%B2%8C%EC%9E%84%20%EA%B2%B0%EC%A0%9C%ED%95%98%EA%B8%B0/"/>
+    <id>http://hiseka.github.io/2018/04/22/구글 플레이에서 원화 결제 막힌 게임 결제하기/</id>
+    <published>2018-04-22T06:22:36.000Z</published>
+    <updated>2018-04-22T06:22:43.838Z</updated>
+    
+    <content type="html"><![CDATA[<p>구글 플레이에서 게임을 내려받아서 할 때 간혹 그 게임이 너무 인기가 있어 한국의 회사와 퍼블리싱 계약을 맺고 한국 서버를 따로 만드는 경우가 있다. 이럴 경우 다음과 같은 문제점이 발생할 수 있다.</p><p><strong>보통의 경우는 게임 자체를 막지는 않는다. 다만 결제나 기존에 플레이하던 서비스를 막거나 어렵게 만드는 등의 불편함을 주는 등, 약간의 페널티가 발생한다. 이 페널티가 발생하는 이유는 개발사나 유통사와 한국 퍼블리싱 회사 간의 계약으로 한국 서버의 원활한 사용자 유치와 운영을 위한 일종의 유도책이라고 보면 된다.</strong></p><p>하지만 이럴 경우 기존에 많은 시간을 투자해서 게임을 플레이했던 사용자인 경우는 서버 이전에 대한 보상이 크지 않을 경우 옮기는 것을 매우 아깝게 느껴져 불편해도 계속 글로벌 서버에서 플레이하는 경우가 있다. 또한, 한국 서비스가 마음에 들지 않는 경우도 글로벌 서버를 찾아가 플레이하는 경우도 있다.</p><p>그럼 위에 언급한 이런 게임들의 글로벌 서버에서 플레이할 때 생기는 원화 결제가 막힌 경우에 대해서 그 해결법을 이야기해보고자 한다.</p><p>우선 그 해결법이란 단순하게 말해서 <strong>원화 결제</strong>가 아닌 <strong>외화 결제</strong>를 하면 된다. 그럼 <strong>외화 결제</strong>를 하기 위해서는 어떻게 하면 될까? 이 방법은 크게 3가지로 볼 수 있다(단, 여기서 말한 3가지란 해외 결제 카드가 정상적으로 구글에 등록되고 사용되는 카드를 가지고 있다는 전제로 이야기하는 것이다.).</p><p><strong>1. 본인의 해외 구글 아이디를 만들어 해외 구글 아이디로 로그인해 다시 키운다.</strong><br><strong>2. 본인의 한국 구글 계정의 국가를 해외의 다른 국가로 바꾸고 결제 프로필도 바꾼다.</strong><br><strong>3. 본인의 스마트 폰에 한국 구글 계정 외에 해외 결제용 구글 계정을 추가시킨다.</strong></p><p>우선 1번 해결책은 가장 극단적이면서도 가장 깔끔한 해결책이다. 결국, 연동한 구글 아이디를 해외 구글 아이디로 만들어 다시 연결함으로써 결제 프로필(구글 결제 정보)가 해외로 되어 있어 당연하게도 외화로 결제되기 때문에 깔끔하게 문제가 해결된다. 다만, 기존에 키웠던 게임 데이터가 이전되지 않을 가능성이 높기 때문에 실질적으로 한국 서버에서 다시 키우는 것과 같아 사실상 의미는 없다.</p><p>2번의 해결법은 PC에서 VPN 등으로 외국 구글 사이트에 들어가서 로그인 한 다음 그 상태로 <a href="https://payments.google.com" title="구글 결제 정보" rel="external nofollow noopener noreferrer" target="_blank">구글 결제 정보</a>로 들어가 결제 프로필을 바꾸는 것이다.</p><p>방법은 이렇다. 구글 결제 정보 사이트에서 왼쪽 위에 삼선 아이콘 <i class="fa fa-bars"></i>을 선택한다.</p><p>그 후 아래에 세팅으로 들어가서 국가 옆에 연필 모양 <i class="fa fa-pencil"></i>을 선택하고 구글에 해외 계정으로 가입하기 위해서 사용했던 배송 대행지 주소나 대사관 또는 한인회 주소를 적고 자신의 카드 정보도 적어 주고 환인을 누른다. 그러면 결제 프로필이 1개가 더 생기는데 이것 외에 기존에 사용하고 있던 대한민국 결제 프로필을 지워준다.</p><p>PC가 아닌 휴대폰으로 이 작업을 하고 싶다면 VPN 앱을 깔고 설정 &gt; 앱 또는 애플리케이션 또는 응용 프로그램 &gt; 구글 플레이 스토어 &gt; 데이터 관리 &gt; 캐시 삭제를 선택해서 캐시를 삭제한 다음 다시 홈으로 돌아와 VPN이 아직도 정상적으로 동작하는지 확인 후 구글 플레이에 들어가 구글 플레이 앱 화면 상단의 삼성 아이콘 <i class="fa fa-bars"></i>을 선택하거나 오른쪽으로 스와이프 한 다음 하단에 계정 &gt; 국가 및 프로필을 선택해 해당 메뉴에서 바꾸어 주면 된다.</p><p>그러나 2번의 방식은 한가지 맹점이 있다. 구글 계정은 반드시 1년에 1번뿐이 자신의 국가를 변경할 수 없기 때문에 다시 한국 프로필을 살리기에는 문제가 있다.</p><p>마지막 3번의 방법은 간단하다. 보통 안드로이드 기기(안드로이드 TV 및 기타 I.O.T. 디바이스를 제외한 태블릿이나 휴대폰 등 기본적인 안드로이드 기기)는 다중 구글 계정 로그인을 지원한다.</p><p>기존에 사용하던 한국 계정으로 결제가 안 된다면 다른 계정으로 결제하면 된다. 그런데 그러면 다른 계정으로 게임에 연동해야 하지 않을까? 생각하지만 꼭 그렇지만은 않다. 예를 들어보겠다.</p><p>다중 구글 계정으로 로그인한 휴대폰으로 글로벌 서버 게임에서 결제하면?<br>게임 안에서 결제 매뉴 선택 &gt; 한국 구글 계정으로 결제 불가 &gt; 짧은 로딩 또는 바로(기기에 로그인된 다른 계정의 결제 프로필로 결제할 수 있는지 판단) &gt; 결제가 가능한 다른 계정의 결제 프로필을 결제창에 출력 &gt; 결제를 진행하면 결제가 완료된다.</p><p>무슨 말인지 혹시라도 잘 이해가 안 되는 사람들을 위해 더 풀어쓰자면 다음과 같다.</p><p>철수(한국 계정)가 문방구(구글 결제)에서 연필(게임 상품)을 사려고 한다.<br>철수가 돈이 없다. 지나가던 철수 동생(외국 계정)에게 돈이 있냐고 물어본다.<br>철수 동생이 돈이 있다고 이야기하자 문방구 주인은 철수 동생 돈으로 연필을 결제해 준다.</p><p>뭐 이런 식이다. 그럼 본격적인 방법을 알아보도록 하자!</p><p>VPN을 깔고 구글에 접속한다. 로그인은 하지 말고 계정 만들기를 누른다. 계정을 만든다. 여기서 국가 정보는 위에서 언급한 적이 있는 배송 대행지, 대사관, 한인회 등의 주소를 대신 사용한다. 해외 전화번호가 필요하다면 &lt;텍스트 플러스&gt;처럼 가상 전화번호를 만드는 앱을 사용해서 해결하자!</p><p><a href="https://payments.google.com" title="구글 결제 정보" rel="external nofollow noopener noreferrer" target="_blank">구글 결제 정보</a>로 들어가 결제 프로필도 만들어 주자! 그럼 모든 준비가 끝난다. 여기서 유의할 점이 있는데 처음으로 등록한 카드는 1 USD, 우리나라 돈으로 1천 원가량이 테스트로 나갔다가 취소된다. 보통 당일 취소되지만, 간혹가다 결제되고 취소되는 시간이 길어지는 경우도 있다. 신용카드는 3~4일 전후로 전표매입이 취소되고 체크카드의 경우 1~2주 전후로 취소 금액이 반환된다. 놀라지 말자!</p><p>이렇게 생성한 계정을 휴대폰의 설정 &gt; 계정 &gt; 계정 추가 &gt; 구글 계정을 선택해서 로그인해준다. 그럼 다 된 것이다.</p><p><strong>참고로 3번의 해결책을 가장 먼저 해보고 2번 그리고 1번 순으로 넘어가는 것을 추천한다. 그리고 3번을 해보다가 만약 적용되지 않으면 바로 2번으로 넘어가기보다는 구글 플레이에 문의해 보는 것이 좋다.</strong></p><p>구글 플레이에 문의하는 방법은 다음과 같다.</p><p>휴대폰의 구글 플레이 앱 &gt; 삼선 버튼 <i class="fa fa-bars"></i>나 오른쪽으로 스와이프 &gt; 하단에 고객센터 &gt; Google에 문의 전화나 채팅 중에 선택해서 문의하면 된다.</p><p>구글 플레이 상담 시간은 평일 오전 9시부터 오후 8시까지이며 공휴일 및 주말은 운영하지 않는다. 또한, 점심시간 등은 응답이 늦어질 수 있으며 전화의 경우 콜백 즉 연락처를 남기면 전화가 오는 서비스인데 이때 결려오는 전화번호는 080이나 070으로 시작되는 전화번호로 전화가 온다.</p><p>여기까지 구글 플레이에서 원화 결제 막힌 게임 결제하는 방법에 대해서 알아보았다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;구글 플레이에서 게임을 내려받아서 할 때 간혹 그 게임이 너무 인기가 있어 한국의 회사와 퍼블리싱 계약을 맺고 한국 서버를 따로 만드는 경우가 있다. 이럴 경우 다음과 같은 문제점이 발생할 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;보통의 경우는 게임
+      
+    
+    </summary>
+    
+      <category term="Living" scheme="http://hiseka.github.io/categories/Living/"/>
+    
+      <category term="Interest" scheme="http://hiseka.github.io/categories/Living/Interest/"/>
+    
+    
+      <category term="게임" scheme="http://hiseka.github.io/tags/%EA%B2%8C%EC%9E%84/"/>
+    
+      <category term="모바일" scheme="http://hiseka.github.io/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC/"/>
+    
+      <category term="Game" scheme="http://hiseka.github.io/tags/Game/"/>
+    
+      <category term="Mobile" scheme="http://hiseka.github.io/tags/Mobile/"/>
+    
+      <category term="결제" scheme="http://hiseka.github.io/tags/%EA%B2%B0%EC%A0%9C/"/>
+    
+      <category term="Payment" scheme="http://hiseka.github.io/tags/Payment/"/>
+    
+  </entry>
   
   <entry>
     <title>깨달음</title>
@@ -980,43 +1018,6 @@
       
       
         &lt;p&gt;달 위를 해엄치는 비단잉어를 보니&lt;br&gt;너의 모습이 간절해지는 군아.&lt;br&gt;연못 옆의 정자에서 너를 기다리는&lt;br&gt;나의 마음은 초롱에 불처럼 타는 군아.&lt;br&gt;사랑한다던 너의 이야기가 거짓인 것처럼&lt;br&gt;나의 마음에 비수를 꽂듯이 생각되는데&lt;br
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>용을 타고 나는 도인처럼</title>
-    <link href="http://hiseka.github.io/2018/04/10/%EC%9A%A9%EC%9D%84%20%ED%83%80%EA%B3%A0%20%EB%82%98%EB%8A%94%20%EB%8F%84%EC%9D%B8%EC%B2%98%EB%9F%BC/"/>
-    <id>http://hiseka.github.io/2018/04/10/용을 타고 나는 도인처럼/</id>
-    <published>2018-04-10T00:11:09.000Z</published>
-    <updated>2018-04-10T00:11:15.675Z</updated>
-    
-    <content type="html"><![CDATA[<p>용을 타고 나는 도인처럼<br>나는 자유롭게 살리오!<br>억압하고 강요하는 세상<br>버리고 나 떠나리오!<br>하지만, 언제나 눈을 뜨면<br>용은 온데간데없고,<br>나에게는 다시 구속뿐<br>이것을 벋어날 용을 준다면<br>나의 생명마저 그에게 할 텐데<br>나 자유롭고 싶소.  </p><p>모든 것을 끝은 도인처럼 자유롭게 날고 싶소.</p><p>白星 김선홍</p><p><strong>용을 타고 나는 도인처럼</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;용을 타고 나는 도인처럼&lt;br&gt;나는 자유롭게 살리오!&lt;br&gt;억압하고 강요하는 세상&lt;br&gt;버리고 나 떠나리오!&lt;br&gt;하지만, 언제나 눈을 뜨면&lt;br&gt;용은 온데간데없고,&lt;br&gt;나에게는 다시 구속뿐&lt;br&gt;이것을 벋어날 용을 준다면&lt;br&gt;나의 생명마저 
       
     
     </summary>
