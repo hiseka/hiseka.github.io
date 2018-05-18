@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://hiseka.github.io/"/>
-  <updated>2018-04-22T06:22:43.838Z</updated>
+  <updated>2018-04-22T06:52:43.616Z</updated>
   <id>http://hiseka.github.io/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HTML 5 Cheatsheet 한국어 버전</title>
+    <link href="http://hiseka.github.io/2018/04/22/HTML%205%20Cheatsheet%20Korean/"/>
+    <id>http://hiseka.github.io/2018/04/22/HTML 5 Cheatsheet Korean/</id>
+    <published>2018-04-22T06:22:36.000Z</published>
+    <updated>2018-04-22T06:52:43.616Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="선언"><a href="#선언" class="headerlink" title="선언"></a>선언</h5><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br></pre></td></tr></table></figure><p>이 문서가 HTML 5이상의 권고 사항을 기반으로 만들어진 문서라고 밝힌다. 문서의 최상단에 기제한다.</p><h5 id="문서-요소"><a href="#문서-요소" class="headerlink" title="문서 요소"></a>문서 요소</h5><h6 id="html"><a href="#html" class="headerlink" title="html"></a>html</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;html&gt; ... &lt;/html&gt;</span><br></pre></td></tr></table></figure><p>html문서가 시작되었다는 것을 알려준다. 위의 선언과는 다르다. 선언은 문서의 버전을 알려준다면 html 테그 자체는 html 문서의 시작과 끝을 나타내는 것이다.</p><h6 id="head"><a href="#head" class="headerlink" title="head"></a>head</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;head&gt; ... &lt;/head&gt;</span><br></pre></td></tr></table></figure><p>html문서의 렌더링되지 않은 사전</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;선언&quot;&gt;&lt;a href=&quot;#선언&quot; class=&quot;headerlink&quot; title=&quot;선언&quot;&gt;&lt;/a&gt;선언&lt;/h5&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span 
+      
+    
+    </summary>
+    
+      <category term="Living" scheme="http://hiseka.github.io/categories/Living/"/>
+    
+      <category term="Study" scheme="http://hiseka.github.io/categories/Living/Study/"/>
+    
+    
+      <category term="게임" scheme="http://hiseka.github.io/tags/%EA%B2%8C%EC%9E%84/"/>
+    
+      <category term="모바일" scheme="http://hiseka.github.io/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC/"/>
+    
+      <category term="Game" scheme="http://hiseka.github.io/tags/Game/"/>
+    
+      <category term="Mobile" scheme="http://hiseka.github.io/tags/Mobile/"/>
+    
+      <category term="결제" scheme="http://hiseka.github.io/tags/%EA%B2%B0%EC%A0%9C/"/>
+    
+      <category term="Payment" scheme="http://hiseka.github.io/tags/Payment/"/>
+    
+  </entry>
   
   <entry>
     <title>구글 플레이에서 원화 결제 막힌 게임 결제하기</title>
@@ -981,43 +1018,6 @@
       
       
         &lt;p&gt;그 누군가의 가슴처럼 포근한&lt;br&gt;따뜻한 봄철의 노란 개나리처럼,&lt;br&gt;당신의 그 얼굴이 비치는 것 같은,&lt;br&gt;저 맑은 강에 빠져버린 달을 보며,&lt;br&gt;나는 당신을 그리워합니다.&lt;br&gt;당신은 어디에 있습니까? 물어도,&lt;br&gt;대답이 없을 당신임을
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>연못가 정자에서…….</title>
-    <link href="http://hiseka.github.io/2018/04/10/%EC%97%B0%EB%AA%BB%EA%B0%80%20%EC%A0%95%EC%9E%90%EC%97%90%EC%84%9C/"/>
-    <id>http://hiseka.github.io/2018/04/10/연못가 정자에서/</id>
-    <published>2018-04-10T00:12:24.000Z</published>
-    <updated>2018-04-10T00:12:33.482Z</updated>
-    
-    <content type="html"><![CDATA[<p>달 위를 해엄치는 비단잉어를 보니<br>너의 모습이 간절해지는 군아.<br>연못 옆의 정자에서 너를 기다리는<br>나의 마음은 초롱에 불처럼 타는 군아.<br>사랑한다던 너의 이야기가 거짓인 것처럼<br>나의 마음에 비수를 꽂듯이 생각되는데<br>이리 기다리는데 도대체 언제 오느냐 너는<br>비단잉어도 달빛이 좋아 달 위를 해엄치는 데<br>너는 언제쯤 저 달 근처로 헤엄쳐 오겠느냐!  </p><p>白星 김선홍</p><p><strong>연못가 정자에서…….</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;달 위를 해엄치는 비단잉어를 보니&lt;br&gt;너의 모습이 간절해지는 군아.&lt;br&gt;연못 옆의 정자에서 너를 기다리는&lt;br&gt;나의 마음은 초롱에 불처럼 타는 군아.&lt;br&gt;사랑한다던 너의 이야기가 거짓인 것처럼&lt;br&gt;나의 마음에 비수를 꽂듯이 생각되는데&lt;br
       
     
     </summary>
