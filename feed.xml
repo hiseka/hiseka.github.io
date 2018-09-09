@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://hiseka.github.io/"/>
-  <updated>2018-08-19T06:57:55.768Z</updated>
+  <updated>2018-09-09T11:33:38.145Z</updated>
   <id>http://hiseka.github.io/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>헥소에 가장 큰 단점</title>
+    <link href="http://hiseka.github.io/2018/09/09/%ED%97%A5%EC%86%8C%EC%97%90%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EB%8B%A8%EC%A0%90/"/>
+    <id>http://hiseka.github.io/2018/09/09/헥소에 가장 큰 단점/</id>
+    <published>2018-09-09T11:33:00.000Z</published>
+    <updated>2018-09-09T11:33:38.145Z</updated>
+    
+    <content type="html"><![CDATA[<p>여느 블로그 서비스에서 블로그를 꾸밀때마다 겪는 현상이다. 바로 권태가 그것이다.</p><p>권태를 이겨내기 위해서 부단히 노력을 하지만 쉽지가 않타. 접근성이 용의한 툴도 이런데 솔직히 말해서 핵소의 접근성은 아주 좋지 못하다.</p><p>바로 깃허브에서 포스트를 쓸 수는 없다. <a href="https://jekyllrb-ko.github.io/" rel="external nofollow noopener noreferrer" target="_blank">지킬</a>은 바로 깃허브에 마크다운으로 만든 포스트를 올리면 깃허브에 올린 지킬이 그것을 변환시켜 보여주는 툴이라면 헥소는 전혀 이렇지 않고 로컬에서 마크다운으로 글을 쓴 다음 발행을 하면 컨버팅되어 HTML파일 형식으로 올라간다.</p><p>이런 문제 때문에 어디서나 포스트 형식에 맞추어 아무 텍스트 에디터나 열어서 써서 깃허브에 온라인으로 접속해 올릴 수 있는 지킬보다 기타 등등의 작업을 거쳐야 하는 헥소가 더 접근성은 떨어진다.</p><p>티스토리나 네이버 블로그, 블로거, 텀블러 등등 여러 블로그 서비스는 폰에서도 그 블로그에 이지웍 에디터를 통해 바로 글을 써서 발행할 수 있는 서비스와는 비교할 필요도 없이 헥소는 그 접근성이 떨어진다.</p><p>그렇게 되니까 서서히 멀어지고 권태는 심해진다. 거기에 새롭게 시작하기 위해 테마를 바꾸려고 하는데 뭐가 잘못된 것인지 오류를 뿜어낸다. 정말이지 잘 알지 못하면 헥소라는 툴은 사람을 지치게 하는 것 같다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;여느 블로그 서비스에서 블로그를 꾸밀때마다 겪는 현상이다. 바로 권태가 그것이다.&lt;/p&gt;
+&lt;p&gt;권태를 이겨내기 위해서 부단히 노력을 하지만 쉽지가 않타. 접근성이 용의한 툴도 이런데 솔직히 말해서 핵소의 접근성은 아주 좋지 못하다.&lt;/p&gt;
+&lt;p&gt;
+      
+    
+    </summary>
+    
+      <category term="Living" scheme="http://hiseka.github.io/categories/Living/"/>
+    
+      <category term="Hexo" scheme="http://hiseka.github.io/categories/Living/Hexo/"/>
+    
+    
+      <category term="블로그" scheme="http://hiseka.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
+    
+      <category term="Blog" scheme="http://hiseka.github.io/tags/Blog/"/>
+    
+      <category term="Hexo" scheme="http://hiseka.github.io/tags/Hexo/"/>
+    
+      <category term="헥소" scheme="http://hiseka.github.io/tags/%ED%97%A5%EC%86%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>해외 결제 체크카드 정리(2018년 08월 기준)</title>
@@ -730,48 +765,6 @@
         &lt;p&gt;아틸란티스의 소녀가&lt;br&gt;우리에게…….&lt;br&gt;이렇게 묻는다면…….&lt;/p&gt;
 &lt;p&gt;아틸란티스의 소녀가&lt;br&gt;우리에게…….&lt;br&gt;왜 희망이 없느냐 묻는다면…….&lt;/p&gt;
 &lt;p&gt;아틸란티스의 소녀가&lt;br&gt;우리에게…….&lt;br&gt;왜 즐거움이 없느냐 묻는다면…….
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>시는…….</title>
-    <link href="http://hiseka.github.io/2018/05/31/%EC%8B%9C%EB%8A%94/"/>
-    <id>http://hiseka.github.io/2018/05/31/시는/</id>
-    <published>2018-05-31T10:55:55.000Z</published>
-    <updated>2018-05-31T10:55:29.553Z</updated>
-    
-    <content type="html"><![CDATA[<p>시는<br>사람들에게<br>사랑을 줄 수 있습니다.</p><p>시는<br>사람들에게<br>희망을 줄 수 있습니다.</p><p>시는<br>사람들에게<br>감동을 줄 수 있습니다.</p><p>시는…….</p><p>白星 김선홍</p><p><strong>시는…….</strong> - 문 여는 시 -</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;시는&lt;br&gt;사람들에게&lt;br&gt;사랑을 줄 수 있습니다.&lt;/p&gt;
-&lt;p&gt;시는&lt;br&gt;사람들에게&lt;br&gt;희망을 줄 수 있습니다.&lt;/p&gt;
-&lt;p&gt;시는&lt;br&gt;사람들에게&lt;br&gt;감동을 줄 수 있습니다.&lt;/p&gt;
-&lt;p&gt;시는…….&lt;/p&gt;
-&lt;p&gt;白星 김선홍&lt;/p&gt;
-&lt;p&gt;&lt;s
       
     
     </summary>
