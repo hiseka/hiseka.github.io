@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://hiseka.github.io/"/>
-  <updated>2018-09-09T11:33:38.145Z</updated>
+  <updated>2019-01-20T11:52:24.189Z</updated>
   <id>http://hiseka.github.io/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hugo로 옮기기 실패</title>
+    <link href="http://hiseka.github.io/2019/01/20/%EA%B0%80%EC%9D%84%20%ED%92%8D%EA%B2%BD%20%EC%86%8D%EC%97%90%EB%8A%94%20%EB%B9%A0%EC%A7%84%20%EA%B2%83%EC%9D%B4%20%EC%9E%88%EB%8B%A4/"/>
+    <id>http://hiseka.github.io/2019/01/20/가을 풍경 속에는 빠진 것이 있다/</id>
+    <published>2019-01-20T11:30:10.000Z</published>
+    <updated>2019-01-20T11:52:24.189Z</updated>
+    
+    <content type="html"><![CDATA[<p>점점 블로그에 접속자체를 안하게 되고 관심도 시들어지면서 2019년에는 새롭게 블로그를 다시 꾸며보고 싶었다. 그렇타고 이전의 블로그를 날리는 것이 아니라 새로움만을 느끼면서 계속 유지하고 싶었다.</p><p>그래서 생각한 것이 블로그의 디자인 변경이였다. 그렇게 디자인을 변경하기 위해 여러 사이트를 돌아다니면서 <a href="https://hexo.io/ko/index.html" rel="external nofollow noopener noreferrer" target="_blank">헥소</a>의 태마를 살펴보았지만 더 나은 태마를 찾지 못했다.</p><p>다른 블로그 툴이나 다른 정적 사이트 생성기에는 더 나은 스킨이 없을까? 하고 찾아봤지만 마땅한 것을 찾지 못하다가 정적 사이트 생성기에 대한 평가글을 발견했다. 지킬은 사용자가 많으나 추후 생성해야 하는 문서가 쌓이면 그것을 적용하기까지 엄청나게 오랜 시간이 걸린다는 문제가 있고, 휴고 역시 나중에는 30초 내외로 반영되는 문제가 있다고 그 글에서는 지적했다. 그리고 휴고라는 구글의 Golang으로 만든 정적 사이트 생성기는 5초 안으로 반영된다고 그것으로 선택했다는 글을 보게 되었다.</p><p>거기에 <a href="https://www.staticgen.com" rel="external nofollow noopener noreferrer" target="_blank">정적 사이트 생성기들의 랭킹이 나와 있는 사이트</a>도 알게 되면서 휴고에 대한 관심이 높아졌다. 헥소도 사실 개발자도 아니고 그저 할줄 아는 것은 HTML과 CSS 그리고 JS를 약간뿐이 모르는 상황에서 쉽사리 다른 툴로 넘어가는 것은 모험이었기에 열심히 살펴만 보다가 오늘 시간을 내서 도전해 보았다.</p><p>결과는 자세히 설명을 해놓으신 분들 덕분에 사이트를 생성은 했지만, 해당 스킨에서 분류(카테고리/태그)를 지원하지 않으면 직접 만들어야 하는데 이 경우 해당 툴의 레퍼런스를 보고 만들어야 했다. 문제는 나는 이 레퍼런스가 검은건 글씨고 하얀건 종이인 것 같이 이해할 수 없었다는 것이 문제아닌 문제였다. 덕분에 결국 3시간의 삽질은 분류를 생성하지 못해 날린 시간이 되었다.</p><p>언제 다시 도전할지 모르지만, 어쩌면 개발에 문외한 사람도 도전할 수 있는 그런 레퍼런스가 휴고쪽에서도 나오길 비는 수 밖에는 없을 듯하다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;점점 블로그에 접속자체를 안하게 되고 관심도 시들어지면서 2019년에는 새롭게 블로그를 다시 꾸며보고 싶었다. 그렇타고 이전의 블로그를 날리는 것이 아니라 새로움만을 느끼면서 계속 유지하고 싶었다.&lt;/p&gt;
+&lt;p&gt;그래서 생각한 것이 블로그의 디자인
+      
+    
+    </summary>
+    
+      <category term="Living" scheme="http://hiseka.github.io/categories/Living/"/>
+    
+      <category term="Hexo" scheme="http://hiseka.github.io/categories/Living/Hexo/"/>
+    
+    
+      <category term="블로그" scheme="http://hiseka.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
+    
+      <category term="Blog" scheme="http://hiseka.github.io/tags/Blog/"/>
+    
+      <category term="Hexo" scheme="http://hiseka.github.io/tags/Hexo/"/>
+    
+      <category term="헥소" scheme="http://hiseka.github.io/tags/%ED%97%A5%EC%86%8C/"/>
+    
+      <category term="Hugo" scheme="http://hiseka.github.io/tags/Hugo/"/>
+    
+      <category term="Static Site Generators" scheme="http://hiseka.github.io/tags/Static-Site-Generators/"/>
+    
+      <category term="휴고" scheme="http://hiseka.github.io/tags/%ED%9C%B4%EA%B3%A0/"/>
+    
+      <category term="정적사이트 생성기" scheme="http://hiseka.github.io/tags/%EC%A0%95%EC%A0%81%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>헥소에 가장 큰 단점</title>
@@ -726,45 +768,6 @@
       
       
         &lt;p&gt;어슴푸레 한 이른 새벽 겨울에&lt;br&gt;동쪽 하늘에 하얀별 하나,&lt;br&gt;어두운 세상 밝혀주는 듯&lt;br&gt;판도라의 헛된 희망을 말해주는 듯&lt;br&gt;높게 뜬 하얀별은&lt;br&gt;사람들 눈에 어슷 서린다.&lt;br&gt;힘든 사람의 한숨도&lt;br&gt;말없이 가져가는 그 별…….
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>아틸란티스의 소녀가 이렇게 묻는 다면…….</title>
-    <link href="http://hiseka.github.io/2018/05/31/%EC%95%84%ED%8B%B8%EB%9E%80%ED%8B%B0%EC%8A%A4%EC%9D%98%20%EC%86%8C%EB%85%80%EA%B0%80%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%EB%AC%BB%EB%8A%94%20%EB%8B%A4%EB%A9%B4/"/>
-    <id>http://hiseka.github.io/2018/05/31/아틸란티스의 소녀가 이렇게 묻는 다면/</id>
-    <published>2018-05-31T10:57:55.000Z</published>
-    <updated>2018-05-31T10:58:15.524Z</updated>
-    
-    <content type="html"><![CDATA[<p>아틸란티스의 소녀가<br>우리에게…….<br>이렇게 묻는다면…….</p><p>아틸란티스의 소녀가<br>우리에게…….<br>왜 희망이 없느냐 묻는다면…….</p><p>아틸란티스의 소녀가<br>우리에게…….<br>왜 즐거움이 없느냐 묻는다면…….</p><p>아틸란티스의 소녀가<br>우리에게…….<br>왜 미래가 없느냐 묻는다면…….</p><p>아틸란티스의 소녀가<br>우리에게…….<br>왜 슬픔만이 있느냐 묻는다면…….</p><p>아틸란티스의 소녀가<br>우리에게…….<br>왜 절망만이 있느냐 묻는다면…….</p><p>만약 이렇게 묻는다면…….<br>지금은 대답할 수 없습니다.<br>지금 이 사회 이 시간 속에선<br>대답 할 수 없습니다.</p><p>아틸란티스의 소녀가<br>우리에게…….<br>이렇게 묻는다면…….</p><p>白星 김선홍</p><p><strong>아틸란티스의 소녀가 이렇게 묻는 다면…….</strong> - 아틸란티스의 소녀의 물음 -</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;아틸란티스의 소녀가&lt;br&gt;우리에게…….&lt;br&gt;이렇게 묻는다면…….&lt;/p&gt;
-&lt;p&gt;아틸란티스의 소녀가&lt;br&gt;우리에게…….&lt;br&gt;왜 희망이 없느냐 묻는다면…….&lt;/p&gt;
-&lt;p&gt;아틸란티스의 소녀가&lt;br&gt;우리에게…….&lt;br&gt;왜 즐거움이 없느냐 묻는다면…….
       
     
     </summary>
