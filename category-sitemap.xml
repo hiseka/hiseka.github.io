@@ -42,13 +42,6 @@
     </url>
 
     <url>
-        <loc>http://hiseka.github.io/categories/Living/Interest/</loc>
-        <lastmod>2018-04-22T06:22:43.838Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://hiseka.github.io/categories/Living/Story/</loc>
         <lastmod>2018-07-01T11:20:05.944Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -58,13 +51,6 @@
     <url>
         <loc>http://hiseka.github.io/categories/Living/Money/</loc>
         <lastmod>2018-10-07T11:56:01.998Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hiseka.github.io/categories/Living/</loc>
-        <lastmod>2019-01-20T11:52:24.189Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -86,6 +72,20 @@
     <url>
         <loc>http://hiseka.github.io/categories/Creative/Narrative/</loc>
         <lastmod>2019-01-30T06:47:33.215Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/categories/Living/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/categories/Living/Interest/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -2641,21 +2641,7 @@
     </url>
 
     <url>
-        <loc>http://hiseka.github.io/tags/%EA%B2%8C%EC%9E%84/</loc>
-        <lastmod>2018-04-22T06:22:43.838Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://hiseka.github.io/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC/</loc>
-        <lastmod>2018-04-22T06:22:43.838Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hiseka.github.io/tags/Game/</loc>
         <lastmod>2018-04-22T06:22:43.838Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -3224,6 +3210,132 @@
     <url>
         <loc>http://hiseka.github.io/tags/Narrative/</loc>
         <lastmod>2019-01-30T06:47:33.215Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%EA%B2%8C%EC%9E%84/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/Game/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/PS4/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/PS/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/PS4-Pro/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/PlayStation/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/PlayStation4/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/PlayStation4-Pro/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/Metacritic/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%ED%94%8C%EC%8A%A4/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%ED%94%8C%EC%8A%A44/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%ED%94%8C%EC%8A%A44-%ED%94%84%EB%A1%9C/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%ED%94%8C4/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%ED%94%8C4-%ED%94%84%EB%A1%9C/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%984/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%984-%ED%94%84%EB%A1%9C/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hiseka.github.io/tags/%EB%A9%94%ED%83%80%ED%81%AC%EB%A6%AC%ED%8B%B1/</loc>
+        <lastmod>2019-01-30T08:49:41.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
