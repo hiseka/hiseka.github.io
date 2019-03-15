@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://hiseka.github.io/"/>
-  <updated>2019-03-15T10:11:31.501Z</updated>
+  <updated>2019-03-15T10:38:02.827Z</updated>
   <id>http://hiseka.github.io/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>플랫폼 변경 실패</title>
+    <link href="http://hiseka.github.io/2019/03/15/%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EB%B3%80%EA%B2%BD%20%EC%8B%A4%ED%8C%A8/"/>
+    <id>http://hiseka.github.io/2019/03/15/플랫폼 변경 실패/</id>
+    <published>2019-03-15T10:14:10.000Z</published>
+    <updated>2019-03-15T10:38:02.827Z</updated>
+    
+    <content type="html"><![CDATA[<p>이전 글인 <a href="/2019/02/24/게임 관련 사이트 2019/" title="게임 관련 사이트 2019">게임 관련 사이트 2019</a>에서 상품권 아이콘 폰트를 쓰려고 <a href="https://fontawesome.com/" title="폰트 어썸" rel="external nofollow noopener noreferrer" target="_blank">폰트 어썸</a>의 최신 버전을 깔고 나서 모든 문제가 시작되었다. 폰트 어썸 4버전과 폰트 어썸 5버전은 적용 방식이 달랐고 그 때문에 소소한 부분을 다 바꾸어 주어야 했다. HTML에서 적용된 부분은 쉽게 바꿀 수 있었지만 CSS를 stly확장자로 저장하는 Hexo에서 font-family 부분의 띄어쓰기는 제대로 반영되지 못했고 해당 부분을 변경하고자 많은 시도를 하였지만 결국 제대로 반영시키지 못해 일부 아이콘 폰트가 깨지면서 스킨은 엉망이 되었다.</p><p>덕분에 블로그를 다시 열심히 꾸며보자는 마음도 사라지고 차라리 이럴거면 다시 HUGO나 다른 플랫폼으로 전환해보자라는 생각에 삽질을 시작했다. 고생이란 고생은 다하고 매우 많은 시간 거의 1달을 소비해서 짬짬히 매달렸지만 결국 포기 할 수 밖에 없었다. 의지가 조금 더 있었다면 충분히 옮겼겠지만, 그렇지 않았기 때문인지도 모르겠다.</p><p>일단 HUGO로 옮기려고 했으나 배포를 위해 업로드 하면서 <a href="https://www.netlify.com/" title="Netlify" rel="external nofollow noopener noreferrer" target="_blank">Netlify</a>로 배포처를 옮기려고 했지만 엄청난 오류를 뿜어 댔고 해당 오류가 무엇인지 영어가 짧은 나로써는 도저히 알아낼 수 없었다. 그래서 구글에 오류 구문을 다 쳐보았지만 역시 답을 구하기는 힘들었다. 결국 github page로 배포하려고 했지만 그 마저도 사용하고 싶은 스킨이 깨져 보여서 포기했다. 한글 레퍼런스가 별로 없는 툴이고 초심자를 위한 가이드 보다는 개발자들을 위한 가이드가 주류를 이루어서 더더욱 무엇인 문제인지 간음하기 어려웠다.</p><p>그 후 <a href="https://ghost.org/ko/" title="고스트" rel="external nofollow noopener noreferrer" target="_blank">고스트</a>라는 블로그 툴을 로컬에 깔고 그 상태로 <a href="https://github.com/axitkhurana/buster" title="버스터" rel="external nofollow noopener noreferrer" target="_blank">버스터</a>라는 툴을 이용해서 그대로 정적페이지로 만들어 배포할 수 있는 방법을 찾아봤는데 이쪽은 더욱 레퍼런스가 없고 버스터라는 툴 자체가 버전 업그래이드가 않되서 <a href="https://hub.docker.com/" title="docker" rel="external nofollow noopener noreferrer" target="_blank">docker</a>라는 툴을 이용해야지 그나마 버스터를 확실하게 다룰 수 있다는 글도 보았고…… 아무튼 레퍼런스 자체가 너무 없고 또한 과거의 글들이 많아서 포기 할 수 밖에 없었다.</p><p>결국 전문 지식과 영어에 대한 갈증을 느꼈지만 그 것을 해갈하기까지의 노력을 하는 것보다 현제 있는 툴에서 더 많은 글을 남기는 것이 좋겠다고 생각하고 마음을 접어야만 했다. ㅠㅠ</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;이전 글인 &lt;a href=&quot;/2019/02/24/게임 관련 사이트 2019/&quot; title=&quot;게임 관련 사이트 2019&quot;&gt;게임 관련 사이트 2019&lt;/a&gt;에서 상품권 아이콘 폰트를 쓰려고 &lt;a href=&quot;https://fontawesome.com/
+      
+    
+    </summary>
+    
+      <category term="Living" scheme="http://hiseka.github.io/categories/Living/"/>
+    
+      <category term="Hexo" scheme="http://hiseka.github.io/categories/Living/Hexo/"/>
+    
+    
+      <category term="블로그" scheme="http://hiseka.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
+    
+      <category term="Blog" scheme="http://hiseka.github.io/tags/Blog/"/>
+    
+      <category term="Hexo" scheme="http://hiseka.github.io/tags/Hexo/"/>
+    
+      <category term="헥소" scheme="http://hiseka.github.io/tags/%ED%97%A5%EC%86%8C/"/>
+    
+      <category term="Static Site Generators" scheme="http://hiseka.github.io/tags/Static-Site-Generators/"/>
+    
+      <category term="정적사이트 생성기" scheme="http://hiseka.github.io/tags/%EC%A0%95%EC%A0%81%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>게임 관련 사이트 2019</title>
@@ -761,43 +798,6 @@
       
       
         &lt;p&gt;눈이 눈에 내린다.&lt;br&gt;한 눈물이 슬프게 눈에 아리고&lt;br&gt;하늘에 별이 없다.&lt;br&gt;이런 날에 잘 알로가 자리 잡았을까?&lt;br&gt;마지막조차 그리움의 매개 풀을&lt;br&gt;처참히 가두는 하늘,&lt;br&gt;가슴 속 슬프게 매치는 한이…….&lt;br&gt;눈이 눈에 내린
-      
-    
-    </summary>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/categories/Creative/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/categories/Creative/Narrative/"/>
-    
-    
-      <category term="시" scheme="http://hiseka.github.io/tags/%EC%8B%9C/"/>
-    
-      <category term="Poetry" scheme="http://hiseka.github.io/tags/Poetry/"/>
-    
-      <category term="창작물" scheme="http://hiseka.github.io/tags/%EC%B0%BD%EC%9E%91%EB%AC%BC/"/>
-    
-      <category term="Creative" scheme="http://hiseka.github.io/tags/Creative/"/>
-    
-      <category term="문학" scheme="http://hiseka.github.io/tags/%EB%AC%B8%ED%95%99/"/>
-    
-      <category term="Narrative" scheme="http://hiseka.github.io/tags/Narrative/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>눈치 보는 꼭두각시 죽이기</title>
-    <link href="http://hiseka.github.io/2018/05/31/%EB%88%88%EC%B9%98%20%EB%B3%B4%EB%8A%94%20%EA%BC%AD%EB%91%90%EA%B0%81%EC%8B%9C%20%EC%A3%BD%EC%9D%B4%EA%B8%B0/"/>
-    <id>http://hiseka.github.io/2018/05/31/눈치 보는 꼭두각시 죽이기/</id>
-    <published>2018-05-31T11:03:55.000Z</published>
-    <updated>2018-05-31T11:03:24.803Z</updated>
-    
-    <content type="html"><![CDATA[<p>“죽여라!”<br>강한 저항의 초라한<br>사회의 누더기를 걸친<br>꼭두각시가 부르짖는다.<br>“죽일 가치도 없는 녀석”<br>처량히 독기 없는<br>눈물 내리는 한 남자에게<br>나는 희망을 던진다.<br>“죽여라!”<br>다시 꼭두각시로 되어<br>부르짖는 처량한 남자에게<br>조용히 총을 겨눈다.<br>&lt;&lt;빵&gt;&gt;<br>그 소리에 유리창에<br>어린 꼭두각시는 죽는다.<br>처참히 죽는다.<br>이젠 살아갈 수 있을까?</p><p>白星 김선홍</p><p><strong>눈치 보는 꼭두각시 죽이기</strong> - 사회의 종, 주체 잃은 쓰레기의 외침 -</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;“죽여라!”&lt;br&gt;강한 저항의 초라한&lt;br&gt;사회의 누더기를 걸친&lt;br&gt;꼭두각시가 부르짖는다.&lt;br&gt;“죽일 가치도 없는 녀석”&lt;br&gt;처량히 독기 없는&lt;br&gt;눈물 내리는 한 남자에게&lt;br&gt;나는 희망을 던진다.&lt;br&gt;“죽여라!”&lt;br&gt;다시 꼭두각시로 
       
     
     </summary>
